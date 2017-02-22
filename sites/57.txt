@@ -1,0 +1,47 @@
+https://stackauth.com
+<!DOCTYPE html><html><head><
+    
+    ><title><About StackAuth - Stack Auth></title><
+    
+    ><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"><></script><
+    ><script src="../Content/js/master.js"><></script><
+    ><style type="text/css"><
+		body {
+			font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+			background-color: #E4F8FE;
+		}
+		a, a:visited {
+			color: #842829;
+			text-decoration: none;
+		}
+        .even
+        {
+        	background: #EFFBE5
+        }
+        .odd
+        {
+        	background: #FFFFFF
+        }
+		.container {
+			width: 800px;
+			margin: 10px auto;
+		}
+    ></style><
+    
+></head><body><
+    
+
+
+    
+><div class="container"><h1><This is a domain for centralized services across the entire ><a href="http://stackexchange.com/"><Stack Exchange network.></a><></h1><div><
+    ><p><
+    In addition to ><b><site enumeration></b>< for the ><a href="http://stackapps.com/"><StackExchange API></a><, StackAuth also 
+    serves as the storage domain for our ><b><global authentication></b>< scheme.
+    ></p><
+    ><p><
+    Due to the unreliability of third-party cookies in modern browsers, our scheme uses HTML 5's ><a href="http://dev.w3.org/html5/webstorage/"><localStorage></a><
+    to store login credentials under the StackAuth domain.
+    Browsers supported by ><b><global authentication></b><: IE8+, Chrome 4+, Safari 4+, FireFox 3.6+, Opera 10.61+.
+    ></p></div></div><
+
+></body></html>

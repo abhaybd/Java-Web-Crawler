@@ -1,0 +1,3128 @@
+http://stackoverflow.com/questions/tagged/java
+<!DOCTYPE html><
+><html itemscope itemtype="http://schema.org/QAPage"><
+
+><head><
+
+><title><Newest &#39;java&#39; Questions - Stack Overflow></title><
+    ><link rel="shortcut icon" href="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"><
+    ><link rel="apple-touch-icon image_src" href="https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon.png?v=c78bd457575a"><
+    ><link rel="search" type="application/opensearchdescription+xml" title="Stack Overflow" href="/opensearch.xml"><
+    ><meta name="twitter:card" content="summary"><
+    ><meta name="twitter:domain" content="stackoverflow.com"/><
+    ><meta property="og:type" content="website" /><
+
+    ><meta property="og:image" itemprop="image primaryImageOfPage" content="https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded" /><
+    ><meta name="twitter:title" property="og:title" itemprop="title name" content="Newest &#39;java&#39; Questions" /><
+    ><meta name="twitter:description" property="og:description" itemprop="description" content="Q&amp;A for professional and enthusiast programmers" /><
+    ><meta property="og:url" content="http://stackoverflow.com/questions/tagged/java"/><
+
+    
+    
+    ><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"><></script><
+    ><script src="https://cdn.sstatic.net/Js/stub.en.js?v=9a8031813907"><></script><
+    ><link rel="stylesheet" type="text/css" href="https://cdn.sstatic.net/Sites/stackoverflow/all.css?v=d9243128ba1c"><
+
+            ><link rel="alternate" type="application/atom+xml" title="newest java questions feed" href="/feeds/tag?tagnames=java&amp;sort=newest" /><
+
+
+    ><script><
+        StackExchange.init({"locale":"en","stackAuthUrl":"https://stackauth.com","networkMetaHostname":"meta.stackexchange.com","serverTime":1487731389,"routeName":"Questions/ListByTag","site":{"name":"Stack Overflow","description":"Q&A for professional and enthusiast programmers","isNoticesTabEnabled":true,"recaptchaPublicKey":"6LdchgIAAAAAAJwGpIzRQSOFaO0pU6s44Xt8aTwc","recaptchaAudioLang":"en","enableNewTagCreationWarning":true,"insertSpaceAfterNameTabCompletion":false,"id":1,"enableInsertDocLinkDialog":true,"enableSocialMediaInSharePopup":true},"user":{"fkey":"9081d4c361e3b3938da96d3b31d786d2","rep":0,"isAnonymous":true,"isAnonymousNetworkWide":true,"canSeeNewHeaderDesign":true,"ab":{"question_show_tweaks":{"v":"altern_unansw_cta","g":1},"devstory_timeline_exp":{"v":"b","g":2}}},"events":{"postType":{"question":1},"postEditionSection":{"title":1,"body":2,"tags":3}},"story":{"minCompleteBodyLength":75}}, {"site":{"allowImageUploads":true,"enableUserHovercards":true,"styleCode":true,"enableNewLinkInsertDialog":true,"enableImgurHttps":true,"forceHttpsImages":true},"comments":{},"userProfile":{"openGraphAPIKey":"58740831ad23540e00c58987"},"tags":{},"accounts":{"currentPasswordRequiredForChangingStackIdPassword":true},"flags":{"allowRetractingFlags":true},"analytics":{"clientTimingsAbsoluteTimeout":30000,"clientTimingsDebounceTimeout":1000},"snippets":{"snippetsEnabled":true,"renderDomain":"stacksnippets.net"},"markdown":{"asteriskIntraWordEmphasis":true}});
+        StackExchange.using.setCacheBreakers({"js/prettify-full.en.js":"1d4fb58214d2","js/moderator.en.js":"cbd9a328c047","js/full-anon.en.js":"2e47f3ab48cc","js/full.en.js":"fa16c4607c6f","js/wmd.en.js":"c174aa372284","js/third-party/jquery.autocomplete.min.js":"d3b8fa7fdf74","js/third-party/jquery.autocomplete.min.en.js":"","js/mobile.en.js":"8c3bd5e12250","js/help.en.js":"a9d821110060","js/tageditor.en.js":"09862381cd28","js/tageditornew.en.js":"f156c9e5639f","js/inline-tag-editing.en.js":"2ddfa79492e7","js/revisions.en.js":"8f22ba768cac","js/review.en.js":"5d553af24c51","js/tagsuggestions.en.js":"b278f9a0b23b","js/post-validation.en.js":"18263d352841","js/explore-qlist.en.js":"e71f14781288","js/events.en.js":"9253044075ec","js/keyboard-shortcuts.en.js":"837880f5819d","js/external-editor.en.js":"cb487078c372","js/adops.en.js":"9a6a7812a212","js/external-editor.en.js":"cb487078c372","js/snippet-javascript.en.js":"11b9273bb631","js/snippet-javascript-codemirror.en.js":"e0babbb9bd6a"});
+        StackExchange.using("gps", function() {
+             StackExchange.gps.init(true);
+        });
+    ></script><
+    
+        ><script><
+            StackExchange.ready(function () {
+                $('#nav-tour').click(function () {
+                    StackExchange.using("gps", function() {
+                        StackExchange.gps.track("aboutpage.click", { aboutclick_location: "headermain" }, true);
+                    });
+                });
+            });
+        ></script><
+></head><
+><body class="tagged-questions-page new-topbar"><
+    ><noscript><><div id="noscript-padding"><></div><></noscript><
+            ><script><(function () { var old = $.fn.contents; $.fn.contents = function () { try { return old.apply(this, arguments); } catch (e) { return $([]); } } })()></script><
+        ><iframe id="adzerk-user-match" width="0" height="0" frameborder="0" scrolling="no" onload="window.AUMIframeDone=true"
+                src="https://ssum-sec.casalemedia.com/usermatch?s=183712&amp;cb=https%3A%2F%2Fengine.adzerk.net%2Fudb%2F22%2Fsync%2Fi.gif%3FpartnerId%3D1%26userId%3D"
+                style="display: none;" marginheight="0" marginwidth="0"><></iframe><
+
+    ><div id="notify-container"><></div><
+    ><div id="custom-header"><></div><
+
+><header class="so-header js-so-header _fixed"><
+    ><div class="-container"><
+        ><div class="-main"><
+            
+            ><a href="/" class="-logo " ><
+                ><span class="-img"><Stack Overflow></span><
+            ></a><
+
+            ><nav class="navigation"><
+                ><ol class="-list"><
+                        ><li class="-item _current"><
+        ><a id="nav-questions" href="/questions" class="-link js-gps-track" 
+            data-gps-track="top_nav.click({is_current:true, location:5, destination:1})"><Questions></a><
+    ></li><
+
+    ><li class="-item"><
+        ><a id="nav-jobs" href="/jobs?med=site-ui&amp;ref=jobs-tab" class="-link js-gps-track" 
+            data-gps-track="top_nav.click({is_current:false, location:5, destination:6})"><Jobs></a><
+    ></li><
+                        ><li class="-item"><
+        ><a id="nav-docs" href="/documentation" class="-link js-gps-track" 
+            data-gps-track="top_nav.click({is_current:false, location:5, destination:7})"><Documentation ><small class='beta-badge'><beta></small><></a><
+    ></li><
+                        ><li class="-item"><
+        ><a id="nav-tags" href="/tags" class="-link js-gps-track" 
+            data-gps-track="top_nav.click({is_current:false, location:5, destination:2})"><Tags></a><
+    ></li><
+
+                        ><li class="-item"><
+        ><a id="nav-users" href="/users" class="-link js-gps-track" 
+            data-gps-track="top_nav.click({is_current:false, location:5, destination:3})"><Users></a><
+    ></li><
+
+                ></ol><
+            ></nav><
+
+            ><form id="search" action="/search" method="get" class="searchbar" autocomplete="off"><
+                ><svg viewBox="0 0 18 18" width="18" height="18" role="icon"><><path fill-rule="evenodd" d="M12.864 11.32h-.813l-.288-.277A6.66 6.66 0 0 0 13.38 6.69a6.69 6.69 0 1 0-6.69 6.69 6.66 6.66 0 0 0 4.354-1.617l.278.288v.813L16.467 18 18 16.467l-5.136-5.146zm-6.174 0a4.625 4.625 0 0 1-4.632-4.63A4.625 4.625 0 0 1 6.69 2.058a4.625 4.625 0 0 1 4.63 4.632 4.625 4.625 0 0 1-4.63 4.63z"/><></svg><
+                ><input name="q" type="text" placeholder="Search..." value="[java]" tabindex="1" autocomplete="off" maxlength="240" class="f-input js-search-field" /><
+                ><button type="submit" class="btn js-search-submit"><
+                    ><svg viewBox="0 0 18 18" width="18" height="18" role="icon"><><path fill-rule="evenodd" d="M12.864 11.32h-.813l-.288-.277A6.66 6.66 0 0 0 13.38 6.69a6.69 6.69 0 1 0-6.69 6.69 6.66 6.66 0 0 0 4.354-1.617l.278.288v.813L16.467 18 18 16.467l-5.136-5.146zm-6.174 0a4.625 4.625 0 0 1-4.632-4.63A4.625 4.625 0 0 1 6.69 2.058a4.625 4.625 0 0 1 4.63 4.632 4.625 4.625 0 0 1-4.63 4.63z"/><></svg><
+                ></button><
+            ></form><
+
+        ></div><
+        
+
+
+><div class="-actions"><
+    ><nav class="secondary-nav"><
+        ><div class="-dialog-container js-topbar-dialog-corral"><
+
+
+    ><div class="topbar-dialog siteSwitcher-dialog dno"><
+        ><div class="header"><
+            ><h3><><a href="//stackoverflow.com"><current community></a><
+            ></h3><
+        ></div><
+        ><div class="modal-content current-site-container"><
+            ><ul class="current-site"><
+                    ><li><
+                            ><div class="related-links"><
+                    ><a href="http://chat.stackoverflow.com" class="js-gps-track"     data-gps-track="site_switcher.click({ item_type:6 })"
+><chat></a><
+            ></div><
+
+    ><a href="//stackoverflow.com"
+       class="current-site-link site-link js-gps-track"
+       data-id="1"
+       data-gps-track="site_switcher.click({ item_type:3 })"><
+        ><div class="site-icon favicon favicon-stackoverflow" title="Stack Overflow"><></div><
+        Stack Overflow
+    ></a><
+
+                    ></li><
+                    ><li class="related-site"><
+                            ><div class="L-shaped-icon-container"><
+        ><span class="L-shaped-icon"><></span><
+    ></div><
+
+                        
+    ><a href="http://meta.stackoverflow.com"
+       class="site-link js-gps-track"
+       data-id="552"
+       data-gps-track="site.switch({ target_site:552, item_type:3 }),site_switcher.click({ item_type:4 })"><
+        ><div class="site-icon favicon favicon-stackoverflowmeta" title="Meta Stack Overflow"><></div><
+        Meta Stack Overflow
+    ></a><
+
+                    ></li><
+            ></ul><
+        ></div><
+
+        ><div class="header" id="your-communities-header"><
+            ><h3><
+your communities            ></h3><
+
+        ></div><
+        ><div class="modal-content" id="your-communities-section"><
+
+                ><div class="call-to-login"><
+><a href="https://stackoverflow.com/users/signup?ssrc=site_switcher&amp;returnurl=%2fusers%2fstory%2fcurrent&amp;amp;utm_source=stackoverflow.com&amp;amp;utm_medium=dev-story&amp;amp;utm_campaign=signup-redirect" class="login-link js-gps-track"     data-gps-track="site_switcher.click({ item_type:10 })"
+><Sign up></a>< or ><a href="https://stackoverflow.com/users/login?ssrc=site_switcher&amp;returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2ftagged%2fjava" class="login-link js-gps-track"     data-gps-track="site_switcher.click({ item_type:11 })"
+><log in></a>< to customize your list.
+                ></div><
+        ></div><
+
+        ><div class="header"><
+            ><h3><><a href="//stackexchange.com/sites"><more stack exchange communities></a><
+            ></h3><
+            ><a href="http://stackoverflow.blog" class="fr"><company blog></a><
+        ></div><
+        ><div class="modal-content"><
+                ><div class="child-content"><></div><
+        ></div><        
+    ></div><
+                ><div class="topbar-dialog help-dialog js-help-dialog dno"><
+        ><div class="modal-content"><
+            ><ul><
+                                    ><li><
+                        ><a href="/tour" class="js-gps-track" data-gps-track="help_popup.click({ item_type:1 })"><
+                            Tour
+                            ><span class="item-summary"><
+                                Start here for a quick overview of the site
+                            ></span><
+                        ></a><
+                    ></li><
+                ><li><
+                    ><a href="/help" class="js-gps-track" data-gps-track="help_popup.click({ item_type:4 })"><
+                        Help Center
+                        ><span class="item-summary"><
+                            Detailed answers to any questions you might have
+                        ></span><
+                    ></a><
+                ></li><
+                        ><li><
+                            ><a href="//meta.stackoverflow.com" class="js-gps-track" data-gps-track="help_popup.click({ item_type:2 })"><
+                                Meta
+                                ><span class="item-summary"><
+                                    Discuss the workings and policies of this site
+                                ></span><
+                            ></a><
+                        ></li><
+                        ><li><
+                            ><a href="http://stackoverflow.com/company/about" class="js-gps-track" data-gps-track="help_popup.click({ item_type:6 })"><
+                                About Us
+                                ><span class="item-summary"><
+                                    Learn more about Stack Overflow the company
+                                ></span><
+                            ></a><
+                        ></li><
+                        ><li><
+                            ><a href="https://www.stackoverflowbusiness.com/?ref=topbar_help" class="js-gps-track" data-gps-track="help_popup.click({ item_type:7 })"><
+                                Business
+                                ><span class="item-summary"><
+                                    Learn more about hiring developers or posting ads with us
+                                ></span><
+                            ></a><
+                        ></li><
+            ></ul><
+        ></div><
+    ></div><
+
+        ></div><
+        ><ol class="-list"><
+            
+    ><li class="-item"><><a href="#" class="-link js-help-button" title="Help Center and other resources"><
+        ><svg viewBox="0 0 18 18" width="18" height="18" role="icon"><><path fill-rule="evenodd" d="M9 0a9 9 0 1 0 .001 18.001A9 9 0 0 0 9 0zm.812 13.126c-.02.716-.55 1.157-1.238 1.137-.659-.02-1.177-.49-1.157-1.209.02-.715.566-1.17 1.225-1.15.691.021 1.194.507 1.17 1.222zm1.956-5.114c-.168.237-.546.542-1.02.912l-.527.361c-.257.197-.417.43-.502.695-.044.141-.076.507-.084.752-.004.048-.032.156-.181.156H7.883c-.165 0-.185-.096-.18-.144.023-.667.12-1.218.397-1.66.374-.594 1.426-1.221 1.426-1.221.161-.12.286-.25.382-.39.177-.24.321-.51.321-.8 0-.333-.08-.65-.293-.915-.249-.31-.518-.458-1.036-.458-.51 0-.808.257-1.021.594-.213.338-.177.735-.177 1.097H5.746c0-1.366.357-2.238 1.112-2.752.51-.35 1.162-.502 1.921-.502.996 0 1.788.184 2.487.715.647.49.988 1.181.988 2.113 0 .575-.2 1.057-.486 1.447z" /><></svg><
+    ></a><></li><
+                ><li class="-item"><
+        ><a href="//stackexchange.com" class="-link js-site-switcher-button js-gps-track" data-gps-track="site_switcher.show" title="A list of all 165 Stack Exchange sites"><
+            ><svg viewBox="0 0 18 19" width="18" height="19" role="icon"><><path fill-rule="evenodd" d="M0 14a2 2 0 0 0 2 2h10v3l3-3h1a2 2 0 0 0 2-2v-2H0v2zM16 0H2a2 2 0 0 0-2 2v2h18V2a2 2 0 0 0-2-2zM0 6h18v4H0V6z" /><></svg><
+        ></a><
+    ></li><
+
+
+        ></ol><
+    ></nav><
+        ><div class="-ctas"><
+                    ><a href="https://stackoverflow.com/users/login?ssrc=head&returnurl=http%3a%2f%2fstackoverflow.com%2fquestions%2ftagged%2fjava" class="login-link btn-clear" rel="nofollow"><Log In></a><
+                        ><a href="https://stackoverflow.com/users/signup?ssrc=head&returnurl=%2fusers%2fstory%2fcurrent&amp;utm_source=stackoverflow.com&amp;utm_medium=dev-story&amp;utm_campaign=signup-redirect" class="login-link btn" rel="nofollow"><Sign Up></a><
+
+        ></div></div><
+    ></div></header><
+
+    ><script><
+        StackExchange.ready(function () { StackExchange.topbar.init(); });
+            StackExchange.scrollPadding.setPaddingTop(60, 10);     ></script><
+
+    ><div class="container"><
+        
+
+
+        ><div id="content" class="snippet-hidden"><
+
+
+
+            
+
+    ><div id="mainbar"><
+        ><div class="subheader"><
+            ><h1><Tagged Questions></h1><
+
+><div id="tabs"><
+        ><a href="/tags/java/info" data-nav-xhref="" title="information about this tag" data-value="" data-shortcut="I"><
+            info></a><
+        ><a class="youarehere" href="/questions/tagged/java?sort=newest&amp;pageSize=50" data-nav-xhref="" title="The most recently asked questions" data-value="newest" data-shortcut="N"><
+            newest></a><
+        ><a href="/questions/tagged/java?sort=featured&amp;pageSize=50" data-nav-xhref="" title="Questions with open bounties" data-value="featured" data-shortcut="E"><
+><span class="bounty-indicator-tab"><33></span><            featured></a><
+        ><a href="/questions/tagged/java?sort=frequent&amp;pageSize=50" data-nav-xhref="" title="Questions with the most links" data-value="frequent" data-shortcut="F"><
+            frequent></a><
+        ><a href="/questions/tagged/java?sort=votes&amp;pageSize=50" data-nav-xhref="" title="Questions with the most votes" data-value="votes" data-shortcut="V"><
+            votes></a><
+        ><a href="/questions/tagged/java?sort=active&amp;pageSize=50" data-nav-xhref="" title="Questions that have recent activity" data-value="active" data-shortcut="A"><
+            active></a><
+        ><a id="tab-switch" href="/unanswered/tagged/java" data-nav-xhref="" title="Switch to unanswered tabs" data-value="" data-shortcut="U"><
+            unanswered></a><
+></div><
+        ></div><
+        ><div class="question"><
+><script><
+                var ados = ados || {}; ados.run = ados.run || [];
+                ados.run.push(function () { ados_add_placement(22,8277,"adzerk677089652",56).setZone(739); });
+            ></script><
+            ><div class="everyonelovesstackoverflow" id="adzerk677089652"><></div><
+
+            ><div class="welovestackoverflow" style="margin-top: 10px;"><
+                ><div style="float: left; position: relative; width: 100%"><
+                        ><p><
+Java (not to be confused with JavaScript or JScript) is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM). "Java platform" is the name for a computing system that has installed tools for developing and running Java programs. ...                         ></p><
+                                            ><p style="margin-bottom: 0;"><
+                            ><a title="tag wiki" href="/tags/java/info"><learn more&hellip;></a><
+                            ><span class="lsep"><|></span>< 
+                            ><a title="top answerers and askers in this tag" href="/tags/java/topusers"><top users></a>< 
+                            ><span class="lsep"><|></span>< 
+                            ><a title="common, alternate spellings or phrasings for this tag" href="/tags/java/synonyms"><synonyms (8)></a><
+                                ><span class="lsep"><|></span><
+                                ><a title="find yourself a job" href="/jobs/developer-jobs-using-java?med=site-ui&ref=tag-page_java"><java jobs></a><
+                                                                                ></p><
+                ></div><
+            ></div><
+
+        ></div><
+        ><div id="questions" class="content-padding"><
+><div class="question-summary" id="question-summary-42381640"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-2></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="13 views"><
+    13 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381640/exception-in-thread-main-java-lang-nullpointerexception-help-for-my-specific-c" class="question-hyperlink"><Exception in thread &ldquo;main&rdquo; java.lang.NullPointerException help for my specific case [duplicate]></a><></h3><
+        ><div class="excerpt"><
+            Hello I was wondering if you guys could help me out with my code. 
+
+`import java.io.BufferedReader; 
+
+import java.io.FileNotFoundException;
+
+import java.io.FileReader;
+
+import java.io.IOException;
+
+...
+        ></div><          
+        ><div class="tags t-java t-nullpointerexception"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/nullpointerexception" class="post-tag" title="show questions tagged &#39;nullpointerexception&#39;" rel="tag"><nullpointerexception></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:30:22Z" class="relativetime"><12 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7602170/anthony-cheng"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/5f736554d4b06bd6ba715fea1d80da5c?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7602170/anthony-cheng"><Anthony Cheng></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381633"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="10 views"><
+    10 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381633/refreshing-a-jlabel" class="question-hyperlink"><Refreshing a JLabel></a><></h3><
+        ><div class="excerpt"><
+            (Disclaimer: I'm a beginner at programming and I am very well aware that all of my code sucks. a lot.) 
+I'm trying to display the current time in a JFrame. How can I refresh the text in the JLabel ...
+        ></div><          
+        ><div class="tags t-java t-swing t-jframe"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/swing" class="post-tag" title="show questions tagged &#39;swing&#39;" rel="tag"><swing></a>< ><a href="/questions/tagged/jframe" class="post-tag" title="show questions tagged &#39;jframe&#39;" rel="tag"><jframe></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:29:46Z" class="relativetime"><13 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601615/bad-programmer"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/iTWC3.jpg?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601615/bad-programmer"><Bad Programmer></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381579"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="6 views"><
+    6 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381579/what-are-the-differences-between-the-java-webview-layout-engine-and-firefox" class="question-hyperlink"><What are the differences between the Java WebView layout engine and FireFox?></a><></h3><
+        ><div class="excerpt"><
+            I am using the Java WebView and WebEngine classes to display an existing web page.
+
+engine.load("http://example.net")
+But the web site requires Firefox.  I may be able to remove the Firefox ...
+        ></div><          
+        ><div class="tags t-java t-webview t-webpage-rendering"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/webview" class="post-tag" title="show questions tagged &#39;webview&#39;" rel="tag"><webview></a>< ><a href="/questions/tagged/webpage-rendering" class="post-tag" title="show questions tagged &#39;webpage-rendering&#39;" rel="tag"><webpage-rendering></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:24:42Z" class="relativetime"><18 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/156834/beel"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/2090a849272873bc5b317c53d81f64f9?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/156834/beel"><Beel></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><390></span><><span title="1 silver badge"><><span class="badge2"><></span><><span class="badgecount"><1></span><></span><><span title="9 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><9></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381575"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="7 views"><
+    7 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381575/im-tried-to-save-the-accelerometer-data-in-a-text-file-but-i-am-getting-two-da" class="question-hyperlink"><I&#39;m tried to save the accelerometer data in a text file, but I am getting two data per second></a><></h3><
+        ><div class="excerpt"><
+            I am trying to save the data in a txt, but in terminal, I am getting two data per second. To solve this problem, I am verifying the previous data, but this is causing it to lose data.
+
+This is my code:...
+        ></div><          
+        ><div class="tags t-java t-sensor t-android-studio-2û2"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/sensor" class="post-tag" title="show questions tagged &#39;sensor&#39;" rel="tag"><sensor></a>< ><a href="/questions/tagged/android-studio-2.2" class="post-tag" title="show questions tagged &#39;android-studio-2.2&#39;" rel="tag"><android-studio-2.2></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:24:01Z" class="relativetime"><19 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7196860/jenny-t"><><div class="gravatar-wrapper-32"><><img src="https://lh6.googleusercontent.com/-7rdVLEBXR1k/AAAAAAAAAAI/AAAAAAAAASg/jNnvUNwVnwQ/photo.jpg?sz=32" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7196860/jenny-t"><Jenny.T></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381528"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="7 views"><
+    7 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381528/multilayered-neural-network-back-propagation-explanation" class="question-hyperlink"><Multilayered Neural Network Back Propagation Explanation></a><></h3><
+        ><div class="excerpt"><
+            So, I have a multiple layer neural network set up that is able to perform forwards propagation, and it should be able to perform backwards propagation, but I can not find any resources that explain ...
+        ></div><          
+        ><div class="tags t-java t-neural-network t-backpropagation"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/neural-network" class="post-tag" title="show questions tagged &#39;neural-network&#39;" rel="tag"><neural-network></a>< ><a href="/questions/tagged/backpropagation" class="post-tag" title="show questions tagged &#39;backpropagation&#39;" rel="tag"><backpropagation></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:19:36Z" class="relativetime"><23 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/6187800/morzack"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/jwlhQ.jpg?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/6187800/morzack"><morzack></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="2 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><2></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381518"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-2></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="18 views"><
+    18 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381518/java-compareto-method-doesnt-work" class="question-hyperlink"><Java compareTo method doesn&#39;t work></a><></h3><
+        ><div class="excerpt"><
+            I have a little Problem with my code and I dont know why it is not working.
+I have these classes:
+
+class Coin implements Comparable&lt;Coin&gt;{
+
+    private String coinName;
+    private int coinValue;...
+        ></div><          
+        ><div class="tags t-java t-comparable t-compareto"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/comparable" class="post-tag" title="show questions tagged &#39;comparable&#39;" rel="tag"><comparable></a>< ><a href="/questions/tagged/compareto" class="post-tag" title="show questions tagged &#39;compareto&#39;" rel="tag"><compareto></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:18:00Z" class="relativetime"><25 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7590616/katha-hast"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/e6961dd0cac1437ded25e79b2e9c1540?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7590616/katha-hast"><Katha Hast></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381500"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="21 views"><
+    21 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381500/global-static-variable-or-shared-preference-android" class="question-hyperlink"><Global static variable or shared preference android></a><></h3><
+        ><div class="excerpt"><
+            My Android project need share a List&lt;Right&gt; rights between Activities. The value of this list is initiated in LoginActivity. In other Activity, i use this list to check right of user (if user ...
+        ></div><          
+        ><div class="tags t-java t-android"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:16:36Z" class="relativetime"><26 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/2234250/thuy-nguyen"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/jm3ru.png?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/2234250/thuy-nguyen"><Thuy Nguyen></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><650></span><><span title="1 gold badge"><><span class="badge1"><></span><><span class="badgecount"><1></span><></span><><span title="5 silver badges"><><span class="badge2"><></span><><span class="badgecount"><5></span><></span><><span title="14 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><14></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381488"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-3></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="29 views"><
+    29 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381488/what-string-objects-do-you-recommend" class="question-hyperlink"><What string objects do you recommend? [on hold]></a><></h3><
+        ><div class="excerpt"><
+            I just started a course in Java and I was wondering if there was a way to write a code that catches a string if the first character doesn't begin with a A-Z or a-z without using Regex. Is it possible? ...
+        ></div><          
+        ><div class="tags t-java"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:14:51Z" class="relativetime"><28 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7602101/christopher"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/2ff1fbc903e82f1cf7ea3b5f67fc7b34?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7602101/christopher"><Christopher></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><6></span><><span title="2 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><2></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381476"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="5 views"><
+    5 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381476/interactive-android-google-map-that-returns-a-single-route" class="question-hyperlink"><Interactive Android Google Map that returns a single route></a><></h3><
+        ><div class="excerpt"><
+            How can I implement an interactive map using Google Maps API that prompts a user to select a route? For example, the Place Picker (https://developers.google.com/places/android-api/placepicker) is an ...
+        ></div><          
+        ><div class="tags t-java t-android t-google-maps t-google-maps-android-api-2"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/google-maps" class="post-tag" title="show questions tagged &#39;google-maps&#39;" rel="tag"><><img src="//i.stack.imgur.com/uE37r.png" height="16" width="18" alt="" class="sponsor-tag-img"><google-maps></a>< ><a href="/questions/tagged/google-maps-android-api-2" class="post-tag" title="show questions tagged &#39;google-maps-android-api-2&#39;" rel="tag"><><img src="//i.stack.imgur.com/uE37r.png" height="16" width="18" alt="" class="sponsor-tag-img"><google-maps-android-api-2></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:13:40Z" class="relativetime"><29 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7101112/ejang"><><div class="gravatar-wrapper-32"><><img src="https://lh5.googleusercontent.com/-vk_ZM9qL7CM/AAAAAAAAAAI/AAAAAAAABJ0/-t2q385CIEE/photo.jpg?sz=32" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7101112/ejang"><ejang></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><60></span><><span title="8 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><8></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381386"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered-accepted"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="15 views"><
+    15 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381386/how-to-remove-space-in-between-android-grid-layout" class="question-hyperlink"><How to remove space in between Android Grid Layout></a><></h3><
+        ><div class="excerpt"><
+            As the title states, I simply want to have a layout with as little to no space between the columns/rows that are in a grid layout. Refer to the image below as the example. I simply want all the ...
+        ></div><          
+        ><div class="tags t-java t-android t-user-interface"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/user-interface" class="post-tag" title="show questions tagged &#39;user-interface&#39;" rel="tag"><user-interface></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:02:41Z" class="relativetime"><40 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/3746699/zarif-shahriar"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/87002a5facf4c9a8b3dceb35f73b09d4?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/3746699/zarif-shahriar"><Zarif Shahriar></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><13></span><><span title="4 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><4></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381372"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="7 views"><
+    7 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381372/zookeeper-java-simulate-session-expired" class="question-hyperlink"><ZooKeeper java, simulate session expired></a><></h3><
+        ><div class="excerpt"><
+            I wanted to simulate the session expiration through code and not just mocking it.
+
+Browsing the internet I found this very old post which seems not working anymore. When I try to reimplement it, ...
+        ></div><          
+        ><div class="tags t-java t-session t-apache-zookeeper"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/session" class="post-tag" title="show questions tagged &#39;session&#39;" rel="tag"><session></a>< ><a href="/questions/tagged/apache-zookeeper" class="post-tag" title="show questions tagged &#39;apache-zookeeper&#39;" rel="tag"><apache-zookeeper></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:00:44Z" class="relativetime"><42 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/627307/rodi"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/d3df9dbd89e2b09ac0d31294673175ae?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/627307/rodi"><rodi></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><781></span><><span title="2 gold badges"><><span class="badge1"><></span><><span class="badgecount"><2></span><></span><><span title="11 silver badges"><><span class="badge2"><></span><><span class="badgecount"><11></span><></span><><span title="39 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><39></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381369"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="4 views"><
+    4 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381369/jfxtextfield-not-usable-with-jxbrowser" class="question-hyperlink"><JFXTextField not usable with JxBrowser></a><></h3><
+        ><div class="excerpt"><
+            Im a littlebit stuck with that.
+Im using JxBrowser for my JavaFX project.
+Im also using JFoenix to push the look.
+Now when i browse to some sites, the URLBar which is a JFXTextField becomes unusable. ...
+        ></div><          
+        ><div class="tags t-java t-javafx t-jxbrowser"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/javafx" class="post-tag" title="show questions tagged &#39;javafx&#39;" rel="tag"><javafx></a>< ><a href="/questions/tagged/jxbrowser" class="post-tag" title="show questions tagged &#39;jxbrowser&#39;" rel="tag"><jxbrowser></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 02:00:37Z" class="relativetime"><42 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/6651906/liz3"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/FJl2E.jpg?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/6651906/liz3"><Liz3></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="3 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><3></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381349"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="10 views"><
+    10 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381349/groovy-multi-tasking" class="question-hyperlink"><Groovy multi tasking></a><></h3><
+        ><div class="excerpt"><
+            I am trying the execute the below code in which I am running four threads. Each thread trying to add the one character to mylist. After Each run should be 4 element in list in any order but when I run ...
+        ></div><          
+        ><div class="tags t-java t-multithreading t-jenkins t-groovy"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/multithreading" class="post-tag" title="show questions tagged &#39;multithreading&#39;" rel="tag"><multithreading></a>< ><a href="/questions/tagged/jenkins" class="post-tag" title="show questions tagged &#39;jenkins&#39;" rel="tag"><jenkins></a>< ><a href="/questions/tagged/groovy" class="post-tag" title="show questions tagged &#39;groovy&#39;" rel="tag"><groovy></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:59:05Z" class="relativetime"><44 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/3958300/amandeepsinghsaini-gmail-com"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/1db8fd4e50dbff6af3747029b675fbbb?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/3958300/amandeepsinghsaini-gmail-com"><Amandeepsinghsaini .gmail.com></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><20></span><><span title="5 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><5></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381304"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="27 views"><
+    27 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381304/how-to-get-result-from-asynctask-without-blocking-ui-thread" class="question-hyperlink"><How to get result from AsyncTask without blocking UI thread?></a><></h3><
+        ><div class="excerpt"><
+            I have external class extending AsyncTask to get string from website to parse it as JSONObject or JSONArray. Currently i am using method .get() to get the result, but app is dropping frames, while ...
+        ></div><          
+        ><div class="tags t-java t-android t-json t-multithreading t-android-asynctask"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/json" class="post-tag" title="show questions tagged &#39;json&#39;" rel="tag"><json></a>< ><a href="/questions/tagged/multithreading" class="post-tag" title="show questions tagged &#39;multithreading&#39;" rel="tag"><multithreading></a>< ><a href="/questions/tagged/android-asynctask" class="post-tag" title="show questions tagged &#39;android-asynctask&#39;" rel="tag"><android-asynctask></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:54:18Z" class="relativetime"><48 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7602032/mofblaster"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/69ee706c16f40d084750662f296dc082?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7602032/mofblaster"><mofblaster></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381290"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="5 views"><
+    5 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381290/javafx-editable-tablecell-for-double-property" class="question-hyperlink"><JavaFX editable TableCell for Double property></a><></h3><
+        ><div class="excerpt"><
+            How to set up converter for TableCell to be able to edit Double property?
+
+&lt;TableColumn fx:id="priceCol" text="Price"&gt;
+  &lt;cellValueFactory&gt;
+    &lt;PropertyValueFactory property="price" /&...
+        ></div><          
+        ><div class="tags t-java t-tableview t-javafx-8 t-tablecell t-tablecolumn"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/tableview" class="post-tag" title="show questions tagged &#39;tableview&#39;" rel="tag"><tableview></a>< ><a href="/questions/tagged/javafx-8" class="post-tag" title="show questions tagged &#39;javafx-8&#39;" rel="tag"><javafx-8></a>< ><a href="/questions/tagged/tablecell" class="post-tag" title="show questions tagged &#39;tablecell&#39;" rel="tag"><tablecell></a>< ><a href="/questions/tagged/tablecolumn" class="post-tag" title="show questions tagged &#39;tablecolumn&#39;" rel="tag"><tablecolumn></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:52:37Z" class="relativetime"><50 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/526514/ivan-youroff"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/511274e57d0d546ed59b3d023bf5513a?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/526514/ivan-youroff"><Ivan Youroff></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><575></span><><span title="2 silver badges"><><span class="badge2"><></span><><span class="badgecount"><2></span><></span><><span title="16 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><16></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381281"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="20 views"><
+    20 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381281/how-can-i-keep-database-synchronized" class="question-hyperlink"><How can I keep database synchronized?></a><></h3><
+        ><div class="excerpt"><
+            In my case, I need keep the number of users in every role can not exceed certain customized limit. 
+How can I program in java?  In my mind, I want to keep add or delete a user into database as ...
+        ></div><          
+        ><div class="tags t-java t-database t-multithreading"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/database" class="post-tag" title="show questions tagged &#39;database&#39;" rel="tag"><database></a>< ><a href="/questions/tagged/multithreading" class="post-tag" title="show questions tagged &#39;multithreading&#39;" rel="tag"><multithreading></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:51:32Z" class="relativetime"><51 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4643744/david-j"><><div class="gravatar-wrapper-32"><><img src="https://lh4.googleusercontent.com/-VzQuVqbWEuI/AAAAAAAAAAI/AAAAAAAAAAA/AFTWCVuBc9M/photo.jpg?sz=32" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4643744/david-j"><David J></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><49></span><><span title="7 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><7></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381253"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="7 views"><
+    7 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381253/how-do-i-use-the-requestshutdown-and-shutdown-to-do-graceful-shutdown-in-the-cas" class="question-hyperlink"><How do I use the requestShutdown and shutdown to do graceful shutdown in the case of KCL Java library for AWS Kinesis></a><></h3><
+        ><div class="excerpt"><
+            I am trying to use the new feature of KCL library in Java for AWS Kinesis to do graceful shutdown by registering a shutdown hook to stop all the record processors and then the worker gracefully. The ...
+        ></div><          
+        ><div class="tags t-java t-aws-java-sdk t-aws-kinesis-firehose t-amazon-kcl"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/aws-java-sdk" class="post-tag" title="show questions tagged &#39;aws-java-sdk&#39;" rel="tag"><aws-java-sdk></a>< ><a href="/questions/tagged/aws-kinesis-firehose" class="post-tag" title="show questions tagged &#39;aws-kinesis-firehose&#39;" rel="tag"><aws-kinesis-firehose></a>< ><a href="/questions/tagged/amazon-kcl" class="post-tag" title="show questions tagged &#39;amazon-kcl&#39;" rel="tag"><amazon-kcl></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:48:09Z" class="relativetime"><54 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4698846/daviddecoding"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/6vrUl.png?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4698846/daviddecoding"><daviddecoding></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><61></span><><span title="9 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><9></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381248"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="14 views"><
+    14 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381248/postman-displaying-an-error-format-not-supported-by-the-requested-resource" class="question-hyperlink"><Postman displaying an Error: format not supported by the requested resource></a><></h3><
+        ><div class="excerpt"><
+            I was trying my first demo program in Restful APIs using JAX-RS. 
+
+I'm using Postman as my REST client. I tried this piece of code which should display hello world in my REST client. Instead, I got an ...
+        ></div><          
+        ><div class="tags t-java t-rest t-postman"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/rest" class="post-tag" title="show questions tagged &#39;rest&#39;" rel="tag"><rest></a>< ><a href="/questions/tagged/postman" class="post-tag" title="show questions tagged &#39;postman&#39;" rel="tag"><postman></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:47:41Z" class="relativetime"><55 mins ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7004388/toast-geek"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/Vwi3N.png?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7004388/toast-geek"><Toast Geek></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><170></span><><span title="11 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><11></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381192"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="18 views"><
+    18 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381192/how-do-i-see-if-variables-have-a-common-prime-factor-in-java" class="question-hyperlink"><how do I see if variables have a common prime factor in java></a><></h3><
+        ><div class="excerpt"><
+            I am trying to code a java program to find counterexamples to Beal's Conjecture which if you don't know says that if A, B, C, x, y, and z are positive integers, and x, y and z are more than 2, that A^...
+        ></div><          
+        ><div class="tags t-java"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:41:12Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7602001/jaden"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/2bc1485c405f0b87770e49e542b79e34?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7602001/jaden"><Jaden></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381170"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-2></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="20 views"><
+    20 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381170/why-i-cant-run-the-source-code-on-xampp-for-other-source-code-it-run-very-well" class="question-hyperlink"><why i cant run the source code on xampp? for other source code it run very well [duplicate]></a><></h3><
+        ><div class="excerpt"><
+            its come out like this
+and this too
+I used xampp platform to run the website on my local host previously, and it was run smoothly without any doubt, but this is my source code from my internship ...
+        ></div><          
+        ><div class="tags t-java t-php t-xampp t-localhost"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/php" class="post-tag" title="show questions tagged &#39;php&#39;" rel="tag"><php></a>< ><a href="/questions/tagged/xampp" class="post-tag" title="show questions tagged &#39;xampp&#39;" rel="tag"><xampp></a>< ><a href="/questions/tagged/localhost" class="post-tag" title="show questions tagged &#39;localhost&#39;" rel="tag"><localhost></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:37:37Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7602018/wawa-rodzi"><><div class="gravatar-wrapper-32"><><img src="https://lh6.googleusercontent.com/-0eiJEdaa9w0/AAAAAAAAAAI/AAAAAAAANik/N5ZWCgjFNY4/photo.jpg?sz=32" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7602018/wawa-rodzi"><Wawa Rodzi></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381165"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="13 views"><
+    13 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381165/react-native-android-allow-to-invoke-callback-multiple-times" class="question-hyperlink"><React Native Android: allow to invoke callback multiple times></a><></h3><
+        ><div class="excerpt"><
+            I would like to know how to allow a callback to be invoked multiple times in React Native Android app.
+
+My Android native module saves callback using com.facebook.react.bridge.Callback and ...
+        ></div><          
+        ><div class="tags t-java t-android t-react-native"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/react-native" class="post-tag" title="show questions tagged &#39;react-native&#39;" rel="tag"><react-native></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info user-hover"><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:36:58Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/3958148/sung-won-cho"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/1d13082f7803e52dd98b2808509976c2?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/3958148/sung-won-cho"><Sung Won Cho></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1,569></span><><span title="2 gold badges"><><span class="badge1"><></span><><span class="badgecount"><2></span><></span><><span title="9 silver badges"><><span class="badge2"><></span><><span class="badgecount"><9></span><></span><><span title="36 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><36></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381145"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered-accepted"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="30 views"><
+    30 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381145/can-two-interfaces-mutually-extend-each-other" class="question-hyperlink"><Can two interfaces mutually extend each other? [duplicate]></a><></h3><
+        ><div class="excerpt"><
+            I know interfaces can extend one another, if I have these two interfaces -
+public interface Drawable {} and public interface Dragable {}, Is it a good practice to extends them from each other? My ...
+        ></div><          
+        ><div class="tags t-java"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:34:24Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/2161568/zhenyang-hua"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/AaTnu.png?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/2161568/zhenyang-hua"><Zhenyang Hua></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><897></span><><span title="1 gold badge"><><span class="badge1"><></span><><span class="badgecount"><1></span><></span><><span title="7 silver badges"><><span class="badge2"><></span><><span class="badgecount"><7></span><></span><><span title="19 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><19></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381116"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="8 views"><
+    8 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381116/dagger-switch-out-modules" class="question-hyperlink"><Dagger Switch Out Modules></a><></h3><
+        ><div class="excerpt"><
+            My understanding of dependency injection is it quickly allows someone to switch out implementations or use test implementations. I'm trying to understand how you're expected to do it in dagger. For me ...
+        ></div><          
+        ><div class="tags t-java t-dagger-2"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/dagger-2" class="post-tag" title="show questions tagged &#39;dagger-2&#39;" rel="tag"><dagger-2></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:32:01Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/816630/josh-wilson"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/1142da20004b16811dc122f13ef1993f?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/816630/josh-wilson"><Josh Wilson></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1,390></span><><span title="1 gold badge"><><span class="badge1"><></span><><span class="badgecount"><1></span><></span><><span title="11 silver badges"><><span class="badge2"><></span><><span class="badgecount"><11></span><></span><><span title="32 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><32></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381102"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="47 views"><
+    47 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381102/big-o-dont-understand-time-complexity-for-these-algorithms" class="question-hyperlink"><Big O - Don&#39;t understand time complexity for these algorithms?></a><></h3><
+        ><div class="excerpt"><
+            I am learning how to do time complexity in school and the professor uploaded some examples. For the first example below, the answer is supposed to be O(n^3) but I do not understand how.
+
+public static ...
+        ></div><          
+        ><div class="tags t-java t-algorithm t-time t-complexity-theory"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/algorithm" class="post-tag" title="show questions tagged &#39;algorithm&#39;" rel="tag"><algorithm></a>< ><a href="/questions/tagged/time" class="post-tag" title="show questions tagged &#39;time&#39;" rel="tag"><time></a>< ><a href="/questions/tagged/complexity-theory" class="post-tag" title="show questions tagged &#39;complexity-theory&#39;" rel="tag"><complexity-theory></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:31:00Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4766535/ognimoddd"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/a8f585d08e55e694507fad42c812e6bd?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4766535/ognimoddd"><ognimoddd></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><20></span><><span title="1 silver badge"><><span class="badge2"><></span><><span class="badgecount"><1></span><></span><><span title="7 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><7></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381100"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="12 views"><
+    12 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381100/arraylist-for-files-in-folder-android-internal-storage-storage-emulated-0" class="question-hyperlink"><ArrayList for Files in Folder Android Internal Storage /storage/emulated/0/></a><></h3><
+        ><div class="excerpt"><
+            I want to click a button in my activity and open a separate activity that displays an arraylist of a folder that I want to access. So the code to get to the next activity is simple (start the new ...
+        ></div><          
+        ><div class="tags t-java t-android t-xml t-android-layout t-android-studio"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/xml" class="post-tag" title="show questions tagged &#39;xml&#39;" rel="tag"><xml></a>< ><a href="/questions/tagged/android-layout" class="post-tag" title="show questions tagged &#39;android-layout&#39;" rel="tag"><android-layout></a>< ><a href="/questions/tagged/android-studio" class="post-tag" title="show questions tagged &#39;android-studio&#39;" rel="tag"><><img src="//i.stack.imgur.com/xqoqk.png" height="16" width="18" alt="" class="sponsor-tag-img"><android-studio></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:30:50Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7138811/z-rabat"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/53243e14173be49ad7f8582155f32ce4?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7138811/z-rabat"><Z Rabat></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381043"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="7 views"><
+    7 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381043/referencing-files-in-project-folder-using-selenium-cucumber-web-driver" class="question-hyperlink"><Referencing files in project folder using selenium/cucumber web driver></a><></h3><
+        ><div class="excerpt"><
+            I have a JSF/Xhtml webpage that has an upload file button, and the following is a code snippit from my StepDefs.java file (using cucumber/selenium?)
+
+driver.findElementByXPath("//*[@id=\"uploadInfo:...
+        ></div><          
+        ><div class="tags t-java t-selenium t-jsf t-cucumber"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/selenium" class="post-tag" title="show questions tagged &#39;selenium&#39;" rel="tag"><selenium></a>< ><a href="/questions/tagged/jsf" class="post-tag" title="show questions tagged &#39;jsf&#39;" rel="tag"><jsf></a>< ><a href="/questions/tagged/cucumber" class="post-tag" title="show questions tagged &#39;cucumber&#39;" rel="tag"><cucumber></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:25:54Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601963/james-baggs"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/d762e20374f025751b694a2538509231?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601963/james-baggs"><James Baggs></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42381011"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-5></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="10 views"><
+    10 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42381011/calling-classes-from-a-driver" class="question-hyperlink"><Calling Classes from a Driver [on hold]></a><></h3><
+        ><div class="excerpt"><
+            http://imgur.com/a/b95IT
+
+I have included screenshots of the code above. The Test_Cases run for both the Equipment and SportsStore Classes. However, I cannot get the Driver to compile. I don't believe ...
+        ></div><          
+        ><div class="tags t-java"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:20:51Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601955/brandon"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/f9e1ecec8a7d5c1717b6f803c53d5a19?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601955/brandon"><Brandon></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380996"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="4 views"><
+    4 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380996/reading-files-in-spark-java-using-hadoop-input-format" class="question-hyperlink"><Reading Files in Spark Java using Hadoop Input Format></a><></h3><
+        ><div class="excerpt"><
+            I am trying to read a file using a customized Hadoop Input format. I tried looking at the examples from 
+Spark custom hadoop input format java generics error
+
+/*these classes are already defined in my ...
+        ></div><          
+        ><div class="tags t-java t-hadoop t-apache-spark"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/hadoop" class="post-tag" title="show questions tagged &#39;hadoop&#39;" rel="tag"><hadoop></a>< ><a href="/questions/tagged/apache-spark" class="post-tag" title="show questions tagged &#39;apache-spark&#39;" rel="tag"><apache-spark></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:19:28Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7583742/sgh"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/062c664594ef72699ea023e278a30bd0?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7583742/sgh"><SGh></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380995"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-2></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="14 views"><
+    14 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380995/how-can-i-parse-this-xml-file-with-jaxb-creating-a-restful-web-service" class="question-hyperlink"><How can I parse this XML file with Jaxb creating a RESTful web service? [on hold]></a><></h3><
+        ><div class="excerpt"><
+            Following is the XML file I need to parse and store in a table (SQLServer). I want to use Jaxb since I want to make it a RESTful web service. I need help since this seems like a complex XML file to ...
+        ></div><          
+        ><div class="tags t-java t-xml t-rest t-jaxb"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/xml" class="post-tag" title="show questions tagged &#39;xml&#39;" rel="tag"><xml></a>< ><a href="/questions/tagged/rest" class="post-tag" title="show questions tagged &#39;rest&#39;" rel="tag"><rest></a>< ><a href="/questions/tagged/jaxb" class="post-tag" title="show questions tagged &#39;jaxb&#39;" rel="tag"><jaxb></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:19:27Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601652/jesal"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/6dfe13f8b98b775fe93f3476a2c300ef?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601652/jesal"><Jesal></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380956"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-2></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="22 views"><
+    22 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380956/node-is-returning-as-null" class="question-hyperlink"><Node is returning as null></a><></h3><
+        ><div class="excerpt"><
+            I'm testing to make sure I can print out my Binary Search Tree for a project in my class. I have it so that a string expression is established, and from there, the program will split the string into ...
+        ></div><          
+        ><div class="tags t-java t-binary-search-tree t-nodes"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/binary-search-tree" class="post-tag" title="show questions tagged &#39;binary-search-tree&#39;" rel="tag"><binary-search-tree></a>< ><a href="/questions/tagged/nodes" class="post-tag" title="show questions tagged &#39;nodes&#39;" rel="tag"><nodes></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:13:05Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7123824/willo567"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/6a89896b763befb46e9fc0a632f0b4ee?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7123824/willo567"><WILLO567></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><6></span><><span title="6 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><6></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380927"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="12 views"><
+    12 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380927/navigation-problems-in-eclipse" class="question-hyperlink"><Navigation problems in Eclipse></a><></h3><
+        ><div class="excerpt"><
+            Eclipse Java, both Luna and Neon, seem to have a problem that is driving me mad:
+
+About 20% of the times, when double clicking on an Error in the Problems tab:
+as it's supposed to do, the editor ...
+        ></div><          
+        ><div class="tags t-java t-eclipse"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/eclipse" class="post-tag" title="show questions tagged &#39;eclipse&#39;" rel="tag"><eclipse></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:10:24Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/250069/huff"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/VRbSB.jpg?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/250069/huff"><huff></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><789></span><><span title="2 gold badges"><><span class="badge1"><></span><><span class="badgecount"><2></span><></span><><span title="17 silver badges"><><span class="badge2"><></span><><span class="badgecount"><17></span><></span><><span title="44 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><44></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380920"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="3 views"><
+    3 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380920/liferay-7-build-service-missing-package-com-liferay-util-dao-orm" class="question-hyperlink"><Liferay 7 Build Service missing package com.liferay.util.dao.orm></a><></h3><
+        ><div class="excerpt"><
+            I use liferay 7 to develop my project. When I build a service, I got an exception:
+
+    15:19:12,672 WARN  [fileinstall-/home/barrow/Tools/liferay-ce-portal-7.0-ga3/osgi/modules][...
+        ></div><          
+        ><div class="tags t-java t-liferay-7"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/liferay-7" class="post-tag" title="show questions tagged &#39;liferay-7&#39;" rel="tag"><liferay-7></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:09:40Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7597215/user7597215"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/dc027d35b4b4cd5e24b1f9b98c7a6845?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7597215/user7597215"><user7597215></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380905"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><1></strong><></span><
+                    ><div class="viewcount"><vote></div><
+                ></div><
+            ></div><
+            ><div class="status answered-accepted"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="30 views"><
+    30 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380905/how-to-convert-a-string-to-a-2d-char-array-java" class="question-hyperlink"><How to convert a String to a 2D char array JAVA></a><></h3><
+        ><div class="excerpt"><
+            I am trying to convert a string into a 2D char array.
+
+So for example, if the input string is: +dd+babd+b_a+ddc
+
+The output should be a 2D char array which looks like the following:
+
++dd+
+
+babd
+
++b_a
+
+...
+        ></div><          
+        ><div class="tags t-java t-arrays t-string t-multidimensional-array t-char"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/arrays" class="post-tag" title="show questions tagged &#39;arrays&#39;" rel="tag"><arrays></a>< ><a href="/questions/tagged/string" class="post-tag" title="show questions tagged &#39;string&#39;" rel="tag"><string></a>< ><a href="/questions/tagged/multidimensional-array" class="post-tag" title="show questions tagged &#39;multidimensional-array&#39;" rel="tag"><multidimensional-array></a>< ><a href="/questions/tagged/char" class="post-tag" title="show questions tagged &#39;char&#39;" rel="tag"><char></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:07:26Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4230775/ree"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/59a35a6f281c6774c596e284af1278c0?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4230775/ree"><Ree></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><8></span><><span title="4 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><4></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380875"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="10 views"><
+    10 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380875/using-aspectj-to-monitor-run-time-of-a-rest-call-within-spring-boot-app" class="question-hyperlink"><Using AspectJ to monitor run time of a REST call within Spring Boot app></a><></h3><
+        ><div class="excerpt"><
+            I have a Spring Boot app with multiple classes that share a common HttpUtil class which makes Http requests.  In the past, I have used AspectJ in the following:
+
+@Around("execution(* com.gateway....
+        ></div><          
+        ><div class="tags t-java t-spring t-aspectj"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/spring" class="post-tag" title="show questions tagged &#39;spring&#39;" rel="tag"><spring></a>< ><a href="/questions/tagged/aspectj" class="post-tag" title="show questions tagged &#39;aspectj&#39;" rel="tag"><aspectj></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:02:57Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4173126/barton-durbin"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/9394828d5b853a6cfc6fc2c96231b461?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4173126/barton-durbin"><Barton Durbin></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><43></span><><span title="7 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><7></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380859"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="13 views"><
+    13 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380859/my-joptionpane-wont-display-my-password" class="question-hyperlink"><My JOptionPane won&#39;t display my password></a><></h3><
+        ><div class="excerpt"><
+            I want to write code for a project that asks a user for a username, address, and password then encrypts the password. 90% of the standalone class is just encryption, so feel free to breeze through it.
+...
+        ></div><          
+        ><div class="tags t-java t-joptionpane"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/joptionpane" class="post-tag" title="show questions tagged &#39;joptionpane&#39;" rel="tag"><joptionpane></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 01:01:22Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601894/dipthong"><><div class="gravatar-wrapper-32"><><img src="https://lh5.googleusercontent.com/-NOiPrUHawAo/AAAAAAAAAAI/AAAAAAAABRk/0NzcobFjGhg/photo.jpg?sz=32" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601894/dipthong"><Dipthong></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380769"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-4></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="24 views"><
+    24 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380769/how-do-i-use-paintcomponent-multiple-times" class="question-hyperlink"><How do I use paintComponent multiple times? [on hold]></a><></h3><
+        ><div class="excerpt"><
+            Okay, so I want to be able to use a method for paintComponent in multiple classes.  Since you can only create a method for paintComponent under the name paintComponent(Graphics g), you can only use it ...
+        ></div><          
+        ><div class="tags t-java t-swing"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/swing" class="post-tag" title="show questions tagged &#39;swing&#39;" rel="tag"><swing></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:51:02Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601881/cakeloveoverlord"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/0ca375270bce900d12dd7ee75b6ebaf3?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601881/cakeloveoverlord"><cakeLoveOverlord></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380767"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="21 views"><
+    21 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380767/arrayindexoutofboundsexception-when-using-an-array-in-java" class="question-hyperlink"><ArrayIndexOutOfBoundsException when using an array in Java [duplicate]></a><></h3><
+        ><div class="excerpt"><
+            I keep getting an ArrayIndexOutOfBoundsException and I don't know why because I've initialized my array to the size of maximum number of TAs indicated by the parameter.
+
+This is my constructor:
+
+...
+        ></div><          
+        ><div class="tags t-java t-arrays t-indexoutofboundsexception"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/arrays" class="post-tag" title="show questions tagged &#39;arrays&#39;" rel="tag"><arrays></a>< ><a href="/questions/tagged/indexoutofboundsexception" class="post-tag" title="show questions tagged &#39;indexoutofboundsexception&#39;" rel="tag"><indexoutofboundsexception></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:50:42Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7184482/rarayo55"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/1e9c6a90a949f3c9e40720bd5af36bd7?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7184482/rarayo55"><rarayo55></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><6></span><><span title="3 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><3></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380765"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><3></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="16 views"><
+    16 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380765/read-huge-excel-file500k-rows-in-java" class="question-hyperlink"><Read Huge Excel file(500K rows) in java></a><></h3><
+        ><div class="excerpt"><
+            I am trying to read a Big XLSX File.
+The Excel file has around 500K rows.I need to read col 2.
+
+OPCPackage pkg;
+pkg = OPCPackage.open("File path");
+XSSFWorkbook myWorkBook = new XSSFWorkbook(pkg);
+...
+        ></div><          
+        ><div class="tags t-java t-excel t-apache-poi"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/excel" class="post-tag" title="show questions tagged &#39;excel&#39;" rel="tag"><excel></a>< ><a href="/questions/tagged/apache-poi" class="post-tag" title="show questions tagged &#39;apache-poi&#39;" rel="tag"><apache-poi></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:50:34Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7265022/rajib-podder"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/aa9782f31f19686bca25a2d033d11a20?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7265022/rajib-podder"><Rajib_Podder></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380753"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="11 views"><
+    11 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380753/respawning-in-tiledmap-libgdx" class="question-hyperlink"><Respawning in tiledmap libgdx></a><></h3><
+        ><div class="excerpt"><
+            I am having big trouble respawning items in correct predefined Tiledmap positions in LibGDX. Sometimes the spawnitems spawn at right position, sometimes almost half-way out of the world.
+
+    public ...
+        ></div><          
+        ><div class="tags t-java t-libgdx t-box2d t-meter"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/libgdx" class="post-tag" title="show questions tagged &#39;libgdx&#39;" rel="tag"><libgdx></a>< ><a href="/questions/tagged/box2d" class="post-tag" title="show questions tagged &#39;box2d&#39;" rel="tag"><box2d></a>< ><a href="/questions/tagged/meter" class="post-tag" title="show questions tagged &#39;meter&#39;" rel="tag"><meter></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:49:53Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/3679681/anduplats"><><div class="gravatar-wrapper-32"><><img src="https://graph.facebook.com/100001008052981/picture?type=large" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/3679681/anduplats"><anduplats></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><30></span><><span title="5 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><5></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380749"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="16 views"><
+    16 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380749/how-to-see-the-objectss-age-without-finalize-method-in-java" class="question-hyperlink"><how to see the objects&#39;s age without finalize() method in java?></a><></h3><
+        ><div class="excerpt"><
+            How can I calculate an object's age in java without using the finalize() method?
+I have to make a getAge() method returns the age of the instrument as an int (this is the age of the object not of the ...
+        ></div><          
+        ><div class="tags t-java t-object"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/object" class="post-tag" title="show questions tagged &#39;object&#39;" rel="tag"><object></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:49:16Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601878/swati-bhatt"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/9990bbe8761dcf7c779579a87ffe6085?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601878/swati-bhatt"><Swati Bhatt></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380741"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="11 views"><
+    11 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380741/java-servlet-redirect-has-wrong-url-and-uses-wrong-http-method" class="question-hyperlink"><Java servlet redirect has wrong URL and uses wrong HTTP method></a><></h3><
+        ><div class="excerpt"><
+            I have a form that is submitting a POST request to a servlet defined by @WebServlet("/SignUp").
+
+I also have checks on the client side to make sure all of the form inputs are populated, but if they ...
+        ></div><          
+        ><div class="tags t-java t-jsp t-http t-redirect t-servlets"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/jsp" class="post-tag" title="show questions tagged &#39;jsp&#39;" rel="tag"><jsp></a>< ><a href="/questions/tagged/http" class="post-tag" title="show questions tagged &#39;http&#39;" rel="tag"><http></a>< ><a href="/questions/tagged/redirect" class="post-tag" title="show questions tagged &#39;redirect&#39;" rel="tag"><redirect></a>< ><a href="/questions/tagged/servlets" class="post-tag" title="show questions tagged &#39;servlets&#39;" rel="tag"><servlets></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:48:04Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/5095731/jros"><><div class="gravatar-wrapper-32"><><img src="https://i.stack.imgur.com/THCbd.jpg?s=32&amp;g=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/5095731/jros"><jros></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><316></span><><span title="1 silver badge"><><span class="badge2"><></span><><span class="badgecount"><1></span><></span><><span title="12 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><12></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380740"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="6 views"><
+    6 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380740/how-can-i-broadcast-bitmap-javacv-javacpp-make-problems" class="question-hyperlink"><How can I broadcast BitMap? javacv javacpp make problems></a><></h3><
+        ><div class="excerpt"><
+            I tried to broadcast rtmp live video using javacv, javacpp libraries but it make a lot of problems in many devices.
+can you recommend for other library?
+        ></div><          
+        ><div class="tags t-java t-android t-android-studio"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/android-studio" class="post-tag" title="show questions tagged &#39;android-studio&#39;" rel="tag"><><img src="//i.stack.imgur.com/xqoqk.png" height="16" width="18" alt="" class="sponsor-tag-img"><android-studio></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:47:58Z" class="relativetime"><1 hour ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7435785/lobelo-gamish"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/196677e5d971a0b8bfec61b016c5d6d6?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7435785/lobelo-gamish"><Lobelo Gamish></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380670"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="14 views"><
+    14 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380670/how-do-i-encrypt-and-send-des-key-with-rsa-private-key-and-then-public-key-in-ja" class="question-hyperlink"><How do I encrypt and send DES key with RSA private key and then public key in Java?></a><></h3><
+        ><div class="excerpt"><
+            EDIT: The second question is no longer needed. The problem was a result of padding issues; changing the parameters of the Cipher to "RSA/ECB/PKCS1Padding" fixed it, which was already implemented in ...
+        ></div><          
+        ><div class="tags t-java t-security t-encryption t-cryptography"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/security" class="post-tag" title="show questions tagged &#39;security&#39;" rel="tag"><security></a>< ><a href="/questions/tagged/encryption" class="post-tag" title="show questions tagged &#39;encryption&#39;" rel="tag"><encryption></a>< ><a href="/questions/tagged/cryptography" class="post-tag" title="show questions tagged &#39;cryptography&#39;" rel="tag"><cryptography></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:40:28Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601758/sean"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/2b996c8d88525431be826265f8ab33cf?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601758/sean"><Sean></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380668"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="12 views"><
+    12 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380668/java-hashmap-readonly-thread-safety" class="question-hyperlink"><Java hashmap readonly thread safety></a><></h3><
+        ><div class="excerpt"><
+            I have this code that has a shared hash map initialized in static block. I don't expose the hashmap and it's used read-only (get and containKey).
+I wanted to make sure if this is thread-safe.
+
+public ...
+        ></div><          
+        ><div class="tags t-java t-hashmap t-thread-safety"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/hashmap" class="post-tag" title="show questions tagged &#39;hashmap&#39;" rel="tag"><hashmap></a>< ><a href="/questions/tagged/thread-safety" class="post-tag" title="show questions tagged &#39;thread-safety&#39;" rel="tag"><thread-safety></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:40:24Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/615780/lcysoft"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/71fbe5608af24cbbdf0bac9a7c8aa83d?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/615780/lcysoft"><LCYSoft></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><3,481></span><><span title="12 gold badges"><><span class="badge1"><></span><><span class="badgecount"><12></span><></span><><span title="63 silver badges"><><span class="badge2"><></span><><span class="badgecount"><63></span><></span><><span title="118 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><118></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380667"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="3 views"><
+    3 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380667/java-android-google-maps-scale-radius-of-circle-circleoptions" class="question-hyperlink"><Java Android: Google Maps Scale radius of circle (CircleOptions)></a><></h3><
+        ><div class="excerpt"><
+            In my app I display a large number of circles alongside a track, the problem is that the radius is fixed.
+
+  circleOpt.radius(10).strokeColor(circleColor).fillColor(trackColor);
+Is there an ...
+        ></div><          
+        ><div class="tags t-java t-android t-google-maps"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/android" class="post-tag" title="show questions tagged &#39;android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a>< ><a href="/questions/tagged/google-maps" class="post-tag" title="show questions tagged &#39;google-maps&#39;" rel="tag"><><img src="//i.stack.imgur.com/uE37r.png" height="16" width="18" alt="" class="sponsor-tag-img"><google-maps></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:40:15Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/1778412/fullhdpixel"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/76a9945c1af9c59cdf137b18240c2a40?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/1778412/fullhdpixel"><Fullhdpixel></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><97></span><><span title="2 silver badges"><><span class="badge2"><></span><><span class="badgecount"><2></span><></span><><span title="10 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><10></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380658"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-3></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><2></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="24 views"><
+    24 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380658/should-variables-only-used-within-a-single-method-be-declared-within-the-class-o" class="question-hyperlink"><Should variables only used within a single method be declared within the class or the method?></a><></h3><
+        ><div class="excerpt"><
+            I am programming in Java. I know it probably doesn't matter much on modern, fast computers, but when you create an object from a class used multiple times, is it preferable to declare method-specific ...
+        ></div><          
+        ><div class="tags t-java t-class t-variables t-methods t-instantiation"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/class" class="post-tag" title="show questions tagged &#39;class&#39;" rel="tag"><class></a>< ><a href="/questions/tagged/variables" class="post-tag" title="show questions tagged &#39;variables&#39;" rel="tag"><variables></a>< ><a href="/questions/tagged/methods" class="post-tag" title="show questions tagged &#39;methods&#39;" rel="tag"><methods></a>< ><a href="/questions/tagged/instantiation" class="post-tag" title="show questions tagged &#39;instantiation&#39;" rel="tag"><instantiation></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:39:21Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7187118/metroidsocrates"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/694bba38d25eba73373ad26f017065bc?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7187118/metroidsocrates"><metroidsocrates></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="4 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><4></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380653"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><1></strong><answer
+            ></div><
+        ></div><
+        ><div class="views " title="15 views"><
+    15 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380653/how-to-get-parsedouble-to-ignore-java" class="question-hyperlink"><How to get parseDouble to ignore &ldquo;%&rdquo; - Java></a><></h3><
+        ><div class="excerpt"><
+            I have the following code:
+
+preferredCustomers[count]=new PreferredCustomer(fileData[1],fileData[2],Integer.parseInt(fileData[0]),Double.parseDouble(fileData[3]),(Double.parseDouble(fileData[4])));
+...
+        ></div><          
+        ><div class="tags t-java t-netbeans"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/netbeans" class="post-tag" title="show questions tagged &#39;netbeans&#39;" rel="tag"><netbeans></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:38:22Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/4382161/aaron-t-maynard"><><div class="gravatar-wrapper-32"><><img src="https://graph.facebook.com/100000982517304/picture?type=large" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/4382161/aaron-t-maynard"><Aaron T Maynard></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><13></span><><span title="7 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><7></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380624"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="8 views"><
+    8 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380624/java-httpserver-and-sqlite-insert-select-queries" class="question-hyperlink"><Java - HTTPServer and SQLite - Insert/Select Queries></a><></h3><
+        ><div class="excerpt"><
+            I am struggling to use some of the CRUD methods within my HTTPServer. 
+
+Thus far, I have a server which is up and running on the port 8000 and displays the message Hello World upon execution. I have ...
+        ></div><          
+        ><div class="tags t-java t-sqlite t-httpserver"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/sqlite" class="post-tag" title="show questions tagged &#39;sqlite&#39;" rel="tag"><sqlite></a>< ><a href="/questions/tagged/httpserver" class="post-tag" title="show questions tagged &#39;httpserver&#39;" rel="tag"><httpserver></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:35:36Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7565591/thenewbie"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/686bedaaf735fb3403d6cabe3e28d91e?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7565591/thenewbie"><TheNewbie></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><><span title="1 bronze badge"><><span class="badge3"><></span><><span class="badgecount"><1></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380596"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><0></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status unanswered"><
+                ><strong><0></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="8 views"><
+    8 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380596/netty-handler-called-once-only" class="question-hyperlink"><Netty handler called once only></a><></h3><
+        ><div class="excerpt"><
+            I'm using Netty as a client to connect to a continuous TCP stream of csv data.  There are three handlers in the pipeline:
+A stock DelimiterBasedFrameDecoder to break the stream up into lines,
+My ...
+        ></div><          
+        ><div class="tags t-java t-sockets t-netty t-heisenbug"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/sockets" class="post-tag" title="show questions tagged &#39;sockets&#39;" rel="tag"><sockets></a>< ><a href="/questions/tagged/netty" class="post-tag" title="show questions tagged &#39;netty&#39;" rel="tag"><netty></a>< ><a href="/questions/tagged/heisenbug" class="post-tag" title="show questions tagged &#39;heisenbug&#39;" rel="tag"><heisenbug></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:33:59Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/1813169/mtcoster"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/a0a223b5253b05935faa27e6d63018d7?s=32&amp;d=identicon&amp;r=PG" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/1813169/mtcoster"><MTCoster></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1,303></span><><span title="2 gold badges"><><span class="badge1"><></span><><span class="badgecount"><2></span><></span><><span title="12 silver badges"><><span class="badge2"><></span><><span class="badgecount"><12></span><></span><><span title="29 bronze badges"><><span class="badge3"><></span><><span class="badgecount"><29></span><></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><><div class="question-summary" id="question-summary-42380571"><
+    ><div class="statscontainer"><
+        ><div class="statsarrow"><></div><
+        ><div class="stats"><
+            ><div class="vote"><
+                ><div class="votes"><
+                    ><span class="vote-count-post "><><strong><-1></strong><></span><
+                    ><div class="viewcount"><votes></div><
+                ></div><
+            ></div><
+            ><div class="status answered"><
+                ><strong><3></strong><answers
+            ></div><
+        ></div><
+        ><div class="views " title="44 views"><
+    44 views
+></div><
+    ></div><
+    ><div class="summary"><
+        ><h3><><a href="/questions/42380571/can-anyone-tell-me-why-my-outer-for-loop-doesnt-increment-the-variable" class="question-hyperlink"><Can anyone tell me why my outer for loop doesn&#39;t increment the variable?></a><></h3><
+        ><div class="excerpt"><
+            I use Eclipse and when I debug and step through the code my outer loop doesn't increment and the root always stays as 2. Can anyone tell me why? The top comment explains what I'm trying to accomplish.
+...
+        ></div><          
+        ><div class="tags t-java t-for-loop"><
+            ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< ><a href="/questions/tagged/for-loop" class="post-tag" title="show questions tagged &#39;for-loop&#39;" rel="tag"><for-loop></a>< 
+        ></div><
+        ><div class="started fr"><
+            ><div class="user-info "><
+    ><div class="user-action-time"><
+        asked ><span title="2017-02-22 00:31:02Z" class="relativetime"><2 hours ago></span><
+    ></div><
+    ><div class="user-gravatar32"><
+        ><a href="/users/7601809/a-proscia"><><div class="gravatar-wrapper-32"><><img src="https://www.gravatar.com/avatar/47cc179dd69e050038418f75e624b9d0?s=32&amp;d=identicon&amp;r=PG&amp;f=1" alt="" width="32" height="32"><></div><></a><
+    ></div><
+    ><div class="user-details"><
+        ><a href="/users/7601809/a-proscia"><A. PROSCIA></a><
+        ><div class="-flair"><
+            ><span class="reputation-score" title="reputation score " dir="ltr"><1></span><
+        ></div><
+    ></div><
+></div><
+        ></div><  
+    ></div><
+></div><
+        ></div><
+
+        ><br class="cbt" /><
+        ><div class="pager fl"><
+        
+
+
+
+
+ ><span class="page-numbers current"><1></span><         ><a href="/questions/tagged/java?page=2&amp;sort=newest" title="go to page 2">< ><span class="page-numbers"><2></span>< ></a>< 
+        ><a href="/questions/tagged/java?page=3&amp;sort=newest" title="go to page 3">< ><span class="page-numbers"><3></span>< ></a>< 
+        ><a href="/questions/tagged/java?page=4&amp;sort=newest" title="go to page 4">< ><span class="page-numbers"><4></span>< ></a>< 
+        ><a href="/questions/tagged/java?page=5&amp;sort=newest" title="go to page 5">< ><span class="page-numbers"><5></span>< ></a>< 
+ ><span class="page-numbers dots"><…></span><         ><a href="/questions/tagged/java?page=24268&amp;sort=newest" title="go to page 24268">< ><span class="page-numbers"><24268></span>< ></a>< 
+        ><a href="/questions/tagged/java?page=2&amp;sort=newest" rel="next" title="go to page 2">< ><span class="page-numbers next">< next></span>< ></a>< 
+
+    ></div><
+
+        
+><div id="feed-link"><
+    ><div id="feed-link-text"><
+        ><a href="/feeds/tag?tagnames=java&amp;sort=newest" title="the 30 newest java questions"><
+            ><span class="feed-icon"><></span><newest java questions feed
+        ></a><
+    ></div><
+></div><
+    ></div><
+    ><div id="sidebar"><
+        ><div class="module" id="questions-count"><
+            ><div class="-details"><
+                ><div class="summarycount al"><1,213,381></div><
+                ><p><questions tagged></p><
+                ><div class="tagged"><
+                    ><a href="/questions/tagged/java" class="post-tag" title="show questions tagged &#39;java&#39;" rel="tag"><java></a>< 
+                        ><a style="margin-left: 10px;" title="tag wiki, stats and faq" href="/tags/java/info"><about&nbsp;&raquo;></a><
+                ></div><
+            ></div><
+            
+><div class="aside-cta"><
+    ><a href="/questions/ask" class="btn-outlined"><Ask Question></a></div><
+        ></div><
+
+><div class="module community-bulletin" data-tracker="cb=1"><
+    ><div class="related"><
+                ><div class="bulletin-title"><
+                    Blog
+                ></div><
+                ><hr /><
+    ><div class="spacer"><
+        ><div class="bulletin-item-type"><
+                ><a href="http://stackoverflow.blog/2017/02/Stack-Overflow-Podcast-101-Matt-Mullenweg-on-Open-Source-Blogs-and-Beyonce/" class="question-hyperlink"><
+><div class="favicon favicon-stackexchangemeta" title="Meta Stack Exchange"><></div><                ></a><
+            ></div><
+                ><div class="bulletin-item-content"><
+                    ><a href="http://stackoverflow.blog/2017/02/Stack-Overflow-Podcast-101-Matt-Mullenweg-on-Open-Source-Blogs-and-Beyonce/" class="question-hyperlink"><Stack Overflow Podcast #101 - Matt Mullenweg on Open Source, Blogs, and Beyonc&#233;></a><
+                ></div><
+                ><br class="cbt" /><
+            ></div><
+    ></div><
+></div><        
+
+        
+        
+        ><script><
+                var ados = ados || {}; ados.run = ados.run || [];
+                ados.run.push(function () { ados_add_placement(22,8277,"adzerk1788386954",[5,17,2221]).setZone(45); });
+            ></script><
+            ><div class="everyonelovesstackoverflow" id="adzerk1788386954"><></div><
+            ><div id="hireme"><></div><
+        ><script><
+window.clc_request = 'AjJLiInMWtQIAAAAAAAAAAACAAAAAQAAAAAGAAAAfGphdmF8AL2tqkY9KpM4R_4';
+;(function(n){var t,u,r,i;try{if(typeof[].indexOf!="function")return;if(window.attachEvent&&!window.addEventListener)return;if(n.allowed[0]!=="*"&&n.allowed.indexOf(location.hostname)===-1)return;if(t=window,t.clc=t.clc||{},u=t.clc_request||t.clcfl_request,u||console.warn("clc_request missing"),t.clc.init=t.clc.init||[],t.clc.init.push(function(n){return n.load()}),t.clc.options){for(r in t.clc.options)n[r]=t.clc.options[r];t.clc.options=n}else t.clc.options=n;i=document.createElement("script");i.async=!0;i.src=n.lib;document.body.appendChild(i)}catch(f){console.error("[clc] Error in loader:",f)}}).call(null, {"azw":true,"kt":2000,"tto":true,"autoload":true,"d":{"sb":["hireme","clc-sb"],"tlb":["careers1","clc-tlb"],"mlb":["careers3","clc-mlb"]},"allowed":["stackoverflow.com","serverfault.com","blog.codinghorror.com","talent.stackoverflow.com"],"h":"clc.stackoverflow.com","u":"https://clc.stackoverflow.com/markup.js","lib":"https://cdn.sstatic.net/clc/clc.min.js?v=bd570ea4a858"});        ></script><
+        
+
+            ><div class="module js-gps-related-tags"><
+                
+><h4 id="h-related-tags"><Related Tags></h4><
+        ><div><
+            ><a href="/questions/tagged/java+android" class="post-tag no-tag-menu" title="show questions tagged &#39;java android&#39;" rel="tag"><><img src="//i.stack.imgur.com/tKsDb.png" height="16" width="18" alt="" class="sponsor-tag-img"><android></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><173160></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+swing" class="post-tag no-tag-menu" title="show questions tagged &#39;java swing&#39;" rel="tag"><swing></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><63665></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+spring" class="post-tag no-tag-menu" title="show questions tagged &#39;java spring&#39;" rel="tag"><spring></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><61382></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+eclipse" class="post-tag no-tag-menu" title="show questions tagged &#39;java eclipse&#39;" rel="tag"><eclipse></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><47317></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+hibernate" class="post-tag no-tag-menu" title="show questions tagged &#39;java hibernate&#39;" rel="tag"><hibernate></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><37043></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+arrays" class="post-tag no-tag-menu" title="show questions tagged &#39;java arrays&#39;" rel="tag"><arrays></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><33085></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+multithreading" class="post-tag no-tag-menu" title="show questions tagged &#39;java multithreading&#39;" rel="tag"><multithreading></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><27474></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+xml" class="post-tag no-tag-menu" title="show questions tagged &#39;java xml&#39;" rel="tag"><xml></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><26494></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+maven" class="post-tag no-tag-menu" title="show questions tagged &#39;java maven&#39;" rel="tag"><maven></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><24869></span><></span><
+        ></div><
+        ><div><
+            ><a href="/questions/tagged/java+json" class="post-tag no-tag-menu" title="show questions tagged &#39;java json&#39;" rel="tag"><json></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><22758></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+jsp" class="post-tag no-tag-menu" title="show questions tagged &#39;java jsp&#39;" rel="tag"><jsp></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><22607></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+string" class="post-tag no-tag-menu" title="show questions tagged &#39;java string&#39;" rel="tag"><string></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><22452></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+spring-mvc" class="post-tag no-tag-menu" title="show questions tagged &#39;java spring-mvc&#39;" rel="tag"><spring-mvc></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><21520></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+mysql" class="post-tag no-tag-menu" title="show questions tagged &#39;java mysql&#39;" rel="tag"><mysql></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><20009></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+servlets" class="post-tag no-tag-menu" title="show questions tagged &#39;java servlets&#39;" rel="tag"><servlets></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><18953></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+jpa" class="post-tag no-tag-menu" title="show questions tagged &#39;java jpa&#39;" rel="tag"><jpa></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><17252></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+tomcat" class="post-tag no-tag-menu" title="show questions tagged &#39;java tomcat&#39;" rel="tag"><tomcat></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><17175></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+regex" class="post-tag no-tag-menu" title="show questions tagged &#39;java regex&#39;" rel="tag"><regex></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><16771></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+arraylist" class="post-tag no-tag-menu" title="show questions tagged &#39;java arraylist&#39;" rel="tag"><arraylist></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><16601></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+jdbc" class="post-tag no-tag-menu" title="show questions tagged &#39;java jdbc&#39;" rel="tag"><jdbc></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><15313></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+javascript" class="post-tag no-tag-menu" title="show questions tagged &#39;java javascript&#39;" rel="tag"><javascript></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><14772></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+java-ee" class="post-tag no-tag-menu" title="show questions tagged &#39;java java-ee&#39;" rel="tag"><java-ee></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><14770></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+web-services" class="post-tag no-tag-menu" title="show questions tagged &#39;java web-services&#39;" rel="tag"><web-services></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><12698></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+sql" class="post-tag no-tag-menu" title="show questions tagged &#39;java sql&#39;" rel="tag"><sql></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><11917></span><></span><
+        ></div><
+        ><div class="dno js-hidden"><
+            ><a href="/questions/tagged/java+generics" class="post-tag no-tag-menu" title="show questions tagged &#39;java generics&#39;" rel="tag"><generics></a><&nbsp;><span class="item-multiplier"><><span class="item-multiplier-x"><&times;></span><&nbsp;><span class="item-multiplier-count"><11793></span><></span><
+        ></div><
+        ><a href="#"
+           class="show-more js-show-more js-gps-track"
+           data-gps-track="related_tags.click({ item_type:2 })"><
+            more related tags
+        ></a><
+        ><script><
+            StackExchange.ready(function () {
+                var $div = $('#h-related-tags').parent();
+                $div.find('.js-show-more').click(function () {
+                    $div.find('.js-hidden').show();
+                    $(this).remove();
+                    return false;
+                });
+            });
+        ></script><
+
+            ></div><
+
+><div id="hot-network-questions" class="module"><
+    ><h4><
+        ><a href="//stackexchange.com/questions?tab=hot" 
+           class="js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:1, location:9 })"><
+            Hot Network Questions
+        ></a><
+    ></h4><
+    ><ul><
+            ><li ><
+                ><div class="favicon favicon-mathematica" title="Mathematica Stack Exchange"><></div><><a href="http://mathematica.stackexchange.com/questions/138297/displaying-a-telescoping-series" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:387 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Displaying a telescoping series
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-codegolf" title="Programming Puzzles &amp; Code Golf Stack Exchange"><></div><><a href="http://codegolf.stackexchange.com/questions/110824/how-did-i-end-up-with-this-fizzbuzz" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:200 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    How did I end up with this FizzBuzz?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-rpg" title="Role-playing Games Stack Exchange"><></div><><a href="http://rpg.stackexchange.com/questions/95265/one-pc-doing-too-much-damage" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:122 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    One PC doing too much damage
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-music" title="Music: Practice &amp; Theory Stack Exchange"><></div><><a href="http://music.stackexchange.com/questions/53658/bass-line-melodies" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:240 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Bass line melodies
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-codegolf" title="Programming Puzzles &amp; Code Golf Stack Exchange"><></div><><a href="http://codegolf.stackexchange.com/questions/110648/fewest-distinct-characters-for-turing-completeness" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:200 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Fewest (distinct) characters for Turing Completeness
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-rpg" title="Role-playing Games Stack Exchange"><></div><><a href="http://rpg.stackexchange.com/questions/95333/do-elemental-affinity-and-empowered-evocation-stack" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:122 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Do Elemental Affinity and Empowered Evocation Stack?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-security" title="Information Security Stack Exchange"><></div><><a href="http://security.stackexchange.com/questions/151754/is-running-apt-get-upgrade-every-so-often-enough-to-keep-a-web-server-secure" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:162 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Is running &quot;apt-get upgrade&quot; every so often enough to keep a Web-server secure?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-english" title="English Language &amp; Usage Stack Exchange"><></div><><a href="http://english.stackexchange.com/questions/374510/is-there-an-idiom-phrase-which-contains-the-word-head-to-mean-thinking-hard-t" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:97 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Is there an idiom/phrase which contains the word &quot;head&quot; to mean &quot;thinking hard to solve a problem&quot;?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"><></div><><a href="http://worldbuilding.stackexchange.com/questions/71847/what-conditions-would-prevent-the-possibility-of-human-made-satellites-orbiting" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    What conditions would prevent the possibility of human-made satellites orbiting a habitable planet?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-travel" title="Travel Stack Exchange"><></div><><a href="http://travel.stackexchange.com/questions/88491/is-it-easier-faster-for-an-iranian-citizen-to-get-a-us-or-a-schengen-swiss-vis" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:273 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Is it easier/faster for an Iranian citizen to get a US or a Schengen (Swiss) visa?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-chemistry" title="Chemistry Stack Exchange"><></div><><a href="http://chemistry.stackexchange.com/questions/69020/what-causes-the-smell-of-something-being-musty" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:431 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    What causes the smell of something being &quot;musty&quot;?
+                ></a><
+
+            ></li><
+            ><li ><
+                ><div class="favicon favicon-skeptics" title="Skeptics Stack Exchange"><></div><><a href="http://skeptics.stackexchange.com/questions/37325/only-the-us-liberia-and-myanmar-are-not-metric" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:212 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Only the US, Liberia and Myanmar are “not metric�??
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-travel" title="Travel Stack Exchange"><></div><><a href="http://travel.stackexchange.com/questions/88525/changing-seats-on-southwest-during-a-layover-with-no-plane-change" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:273 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Changing seats on Southwest during a layover with no plane change
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"><></div><><a href="http://worldbuilding.stackexchange.com/questions/71877/how-can-i-build-a-door-to-repel-a-horde-of-zombies" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    How can I build a door to repel a horde of zombies?
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-askubuntu" title="Ask Ubuntu"><></div><><a href="http://askubuntu.com/questions/885732/is-it-safe-to-have-no-home-partition" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:89 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Is it safe to have no `/home` partition?
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-codegolf" title="Programming Puzzles &amp; Code Golf Stack Exchange"><></div><><a href="http://codegolf.stackexchange.com/questions/110788/smallest-multiplier-that-reveals-a-factor-of-a-semiprime" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:200 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Smallest multiplier that reveals a factor of a semiprime
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-codegolf" title="Programming Puzzles &amp; Code Golf Stack Exchange"><></div><><a href="http://codegolf.stackexchange.com/questions/110748/hack-into-a-lottery" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:200 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Hack into a Lottery
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-worldbuilding" title="Worldbuilding Stack Exchange"><></div><><a href="http://worldbuilding.stackexchange.com/questions/71724/can-we-build-a-world-in-1-000-years" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:579 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Can we build a world in 1,000 years?
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-tex" title="TeX - LaTeX Stack Exchange"><></div><><a href="http://tex.stackexchange.com/questions/355040/misaligned-math-expression-inside-subfig" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:85 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Misaligned math expression inside subfig
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-math" title="Mathematics Stack Exchange"><></div><><a href="http://math.stackexchange.com/questions/2155108/is-most-of-mathematics-not-dealing-with-sets" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:69 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Is most of mathematics *not* dealing with sets?
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-gamedev" title="Game Development Stack Exchange"><></div><><a href="http://gamedev.stackexchange.com/questions/137712/avoid-giant-player-classes" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:53 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Avoid giant player classes
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-codereview" title="Code Review Stack Exchange"><></div><><a href="http://codereview.stackexchange.com/questions/155912/jquery-navbar-scrolltop-position" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:196 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    jQuery navbar scrollTop position
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-workplace" title="The Workplace Stack Exchange"><></div><><a href="http://workplace.stackexchange.com/questions/85455/appropriate-amount-of-time-to-stay-with-company-after-they-paid-for-masters-degr" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:423 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Appropriate amount of time to stay with company after they paid for masters degree
+                ></a><
+
+            ></li><
+            ><li class="dno js-hidden"><
+                ><div class="favicon favicon-drupal" title="Drupal Answers"><></div><><a href="http://drupal.stackexchange.com/questions/229309/find-out-which-theme-is-loaded-in-a-given-page" class="js-gps-track" data-gps-track="site.switch({ item_type:9, target_site:220 }); posts_hot_network.click({ item_type:2, location:9 })"><
+                    Find out which theme is loaded in a given page
+                ></a><
+
+            ></li><
+    ></ul><
+
+        ><a href="#" 
+           class="show-more js-show-more js-gps-track" 
+           data-gps-track="posts_hot_network.click({ item_type:3, location:9 })"><
+            more hot questions
+        ></a><
+></div><
+    ></div><
+
+        ></div><
+    ></div><
+    ><div id="footer" class="categories"><
+        ><div class="footerwrap"><            
+            ><div id="footer-menu"><
+                ><div class="top-footer-links"><
+                    ><a href="http://stackoverflow.com/company/about"><about us></a><
+                        ><a href="/tour"><tour></a><
+                    ><a href="/help"><help></a><
+                    ><a href="http://stackoverflow.blog?blb=1"><blog></a><
+                        ><a href="http://chat.stackoverflow.com"><chat></a><
+                    ><a href="http://data.stackexchange.com"><data></a><
+                    ><a href="http://stackexchange.com/legal"><legal></a><
+                    ><a href="http://stackexchange.com/legal/privacy-policy"><privacy policy></a><
+                    ><a href="http://stackoverflow.com/company/work-here"><work here></a><
+                    ><a href="https://www.stackoverflowbusiness.com/advertise"><advertising info></a><
+                        ><a href="http://stackoverflow.com/jobs/directory/developer-jobs"><developer jobs directory></a><
+
+                    ><a onclick='StackExchange.switchMobile("on")'><mobile></a><
+                    ><b><><a href="/contact"><contact us></a><></b><
+                        ><b><><a href="http://meta.stackoverflow.com"><feedback></a><></b><
+                    
+                ></div><
+                ><div id="footer-sites"><
+                    ><table><
+    ><tr><
+            ><th colspan=3><
+                Technology
+            ></th><
+            ><th ><
+                Life / Arts
+            ></th><
+            ><th ><
+                Culture / Recreation
+            ></th><
+            ><th ><
+                Science
+            ></th><
+            ><th ><
+                Other
+            ></th><
+    ></tr><
+    ><tr><
+            ><td><
+                ><ol><
+                        ><li><><a href="//stackoverflow.com" title="professional and enthusiast programmers"><Stack Overflow></a><></li><
+                        ><li><><a href="//serverfault.com" title="system and network administrators"><Server Fault></a><></li><
+                        ><li><><a href="//superuser.com" title="computer enthusiasts and power users"><Super User></a><></li><
+                        ><li><><a href="//webapps.stackexchange.com" title="power users of web applications"><Web Applications></a><></li><
+                        ><li><><a href="//askubuntu.com" title="Ubuntu users and developers"><Ask Ubuntu></a><></li><
+                        ><li><><a href="//webmasters.stackexchange.com" title="pro webmasters"><Webmasters></a><></li><
+                        ><li><><a href="//gamedev.stackexchange.com" title="professional and independent game developers"><Game Development></a><></li><
+                        ><li><><a href="//tex.stackexchange.com" title="users of TeX, LaTeX, ConTeXt, and related typesetting systems"><TeX - LaTeX></a><></li><
+                        ><li><><a href="//softwareengineering.stackexchange.com" title="professionals, academics, and students working within the systems development life cycle who care about creating, delivering, and maintaining software responsibly"><Software Engineering></a><></li><
+                        ><li><><a href="//unix.stackexchange.com" title="users of Linux, FreeBSD and other Un*x-like operating systems"><Unix &amp; Linux></a><></li><
+                        ><li><><a href="//apple.stackexchange.com" title="power users of Apple hardware and software"><Ask Different (Apple)></a><></li><
+                        ><li><><a href="//wordpress.stackexchange.com" title="WordPress developers and administrators"><WordPress Development></a><></li><
+                            ></ol><></td><><td><><ol><
+                        ><li><><a href="//gis.stackexchange.com" title="cartographers, geographers and GIS professionals"><Geographic Information Systems></a><></li><
+                        ><li><><a href="//electronics.stackexchange.com" title="electronics and electrical engineering professionals, students, and enthusiasts"><Electrical Engineering></a><></li><
+                        ><li><><a href="//android.stackexchange.com" title="enthusiasts and power users of the Android operating system"><Android Enthusiasts></a><></li><
+                        ><li><><a href="//security.stackexchange.com" title="information security professionals"><Information Security></a><></li><
+                        ><li><><a href="//dba.stackexchange.com" title="database professionals who wish to improve their database skills and learn from others in the community"><Database Administrators></a><></li><
+                        ><li><><a href="//drupal.stackexchange.com" title="Drupal developers and administrators"><Drupal Answers></a><></li><
+                        ><li><><a href="//sharepoint.stackexchange.com" title="SharePoint enthusiasts"><SharePoint></a><></li><
+                        ><li><><a href="//ux.stackexchange.com" title="user experience researchers and experts"><User Experience></a><></li><
+                        ><li><><a href="//mathematica.stackexchange.com" title="users of Wolfram Mathematica"><Mathematica></a><></li><
+                        ><li><><a href="//salesforce.stackexchange.com" title="Salesforce administrators, implementation experts, developers and anybody in-between"><Salesforce></a><></li><
+                        ><li><><a href="//expressionengine.stackexchange.com" title="administrators, end users, developers and designers for ExpressionEngine&#174; CMS"><ExpressionEngine&#174; Answers></a><></li><
+                        ><li><><a href="//crypto.stackexchange.com" title="software developers, mathematicians and others interested in cryptography"><Cryptography></a><></li><
+                            ></ol><></td><><td><><ol><
+                        ><li><><a href="//codereview.stackexchange.com" title="peer programmer code reviews"><Code Review></a><></li><
+                        ><li><><a href="//magento.stackexchange.com" title="users of the Magento e-Commerce platform"><Magento></a><></li><
+                        ><li><><a href="//dsp.stackexchange.com" title="practitioners of the art and science of signal, image and video processing"><Signal Processing></a><></li><
+                        ><li><><a href="//raspberrypi.stackexchange.com" title="users and developers of hardware and software for Raspberry Pi"><Raspberry Pi></a><></li><
+                        ><li><><a href="//codegolf.stackexchange.com" title="programming puzzle enthusiasts and code golfers"><Programming Puzzles &amp; Code Golf></a><></li><
+                    
+                        ><li><
+                            ><a href="http://stackexchange.com/sites#technology" class="more"><
+                                more (7)
+                            ></a><
+                        ></li><
+                ></ol><
+            ></td><
+            ><td><
+                ><ol><
+                        ><li><><a href="//photo.stackexchange.com" title="professional, enthusiast and amateur photographers"><Photography></a><></li><
+                        ><li><><a href="//scifi.stackexchange.com" title="science fiction and fantasy enthusiasts"><Science Fiction &amp; Fantasy></a><></li><
+                        ><li><><a href="//graphicdesign.stackexchange.com" title="Graphic Design professionals, students, and enthusiasts"><Graphic Design></a><></li><
+                        ><li><><a href="//movies.stackexchange.com" title="movie and tv enthusiasts"><Movies &amp; TV></a><></li><
+                        ><li><><a href="//music.stackexchange.com" title="musicians, students, and enthusiasts"><Music: Practice &amp; Theory></a><></li><
+                        ><li><><a href="//cooking.stackexchange.com" title="professional and amateur chefs"><Seasoned Advice (cooking)></a><></li><
+                        ><li><><a href="//diy.stackexchange.com" title="contractors and serious DIYers"><Home Improvement></a><></li><
+                        ><li><><a href="//money.stackexchange.com" title="people who want to be financially literate"><Personal Finance &amp; Money></a><></li><
+                        ><li><><a href="//academia.stackexchange.com" title="academics and those enrolled in higher education"><Academia></a><></li><
+                    
+                        ><li><
+                            ><a href="http://stackexchange.com/sites#lifearts" class="more"><
+                                more (8)
+                            ></a><
+                        ></li><
+                ></ol><
+            ></td><
+            ><td><
+                ><ol><
+                        ><li><><a href="//english.stackexchange.com" title="linguists, etymologists, and serious English language enthusiasts"><English Language &amp; Usage></a><></li><
+                        ><li><><a href="//skeptics.stackexchange.com" title="scientific skepticism"><Skeptics></a><></li><
+                        ><li><><a href="//judaism.stackexchange.com" title="those who base their lives on Jewish law and tradition and anyone interested in learning more"><Mi Yodeya (Judaism)></a><></li><
+                        ><li><><a href="//travel.stackexchange.com" title="road warriors and seasoned travelers"><Travel></a><></li><
+                        ><li><><a href="//christianity.stackexchange.com" title="committed Christians, experts in Christianity and those interested in learning more"><Christianity></a><></li><
+                        ><li><><a href="//ell.stackexchange.com" title="speakers of other languages learning English"><English Language Learners></a><></li><
+                        ><li><><a href="//japanese.stackexchange.com" title="students, teachers, and linguists wanting to discuss the finer points of the Japanese language"><Japanese Language></a><></li><
+                        ><li><><a href="//gaming.stackexchange.com" title="passionate videogamers on all platforms"><Arqade (gaming)></a><></li><
+                        ><li><><a href="//bicycles.stackexchange.com" title="people who build and repair bicycles, people who train cycling, or commute on bicycles"><Bicycles></a><></li><
+                        ><li><><a href="//rpg.stackexchange.com" title="gamemasters and players of tabletop, paper-and-pencil role-playing games"><Role-playing Games></a><></li><
+                        ><li><><a href="//anime.stackexchange.com" title="anime and manga fans"><Anime &amp; Manga></a><></li><
+                        ><li><><a href="//mechanics.stackexchange.com" title="mechanics and DIY enthusiast owners of cars, trucks, and motorcycles"><Motor Vehicle Maintenance &amp; Repair></a><></li><
+                    
+                        ><li><
+                            ><a href="http://stackexchange.com/sites#culturerecreation" class="more"><
+                                more (17)
+                            ></a><
+                        ></li><
+                ></ol><
+            ></td><
+            ><td><
+                ><ol><
+                        ><li><><a href="//mathoverflow.net" title="professional mathematicians"><MathOverflow></a><></li><
+                        ><li><><a href="//math.stackexchange.com" title="people studying math at any level and professionals in related fields"><Mathematics></a><></li><
+                        ><li><><a href="//stats.stackexchange.com" title="people interested in statistics, machine learning, data analysis, data mining, and data visualization"><Cross Validated (stats)></a><></li><
+                        ><li><><a href="//cstheory.stackexchange.com" title="theoretical computer scientists and researchers in related fields"><Theoretical Computer Science></a><></li><
+                        ><li><><a href="//physics.stackexchange.com" title="active researchers, academics and students of physics"><Physics></a><></li><
+                        ><li><><a href="//chemistry.stackexchange.com" title="scientists, academics, teachers and students"><Chemistry></a><></li><
+                        ><li><><a href="//biology.stackexchange.com" title="biology researchers, academics, and students"><Biology></a><></li><
+                        ><li><><a href="//cs.stackexchange.com" title="students, researchers and practitioners of computer science"><Computer Science></a><></li><
+                        ><li><><a href="//philosophy.stackexchange.com" title="those interested in the study of the fundamental nature of knowledge, reality, and existence"><Philosophy></a><></li><
+                    
+                        ><li><
+                            ><a href="http://stackexchange.com/sites#science" class="more"><
+                                more (3)
+                            ></a><
+                        ></li><
+                ></ol><
+            ></td><
+            ><td><
+                ><ol><
+                        ><li><><a href="//meta.stackexchange.com" title="meta-discussion of the Stack Exchange family of Q&amp;A websites"><Meta Stack Exchange></a><></li><
+                        ><li><><a href="//stackapps.com" title="apps, scripts, and development with the Stack Exchange API"><Stack Apps></a><></li><
+                        ><li><><a href="//area51.stackexchange.com" title="proposing new sites in the Stack Exchange network"><Area 51></a><></li><
+                        ><li><><a href="https://www.stackoverflowbusiness.com/talent"><Stack Overflow Talent></a><></li><
+                    
+                ></ol><
+            ></td><
+    ></tr><
+></table><
+                ></div><
+            ></div><
+            ><div id="copyright"><
+                site design / logo &#169; 2017 Stack Exchange Inc; user contributions licensed under ><a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"><cc by-sa 3.0></a>< 
+                with ><a href="http://blog.stackoverflow.com/2009/06/attribution-required/" rel="license"><attribution required></a><
+            ></div><
+            ><div id="svnrev"><
+                rev 2017.2.21.25202
+            ></div><
+                ></div><
+    ></div><
+    ><noscript><
+        ><div id="noscript-warning"><Stack Overflow works best with JavaScript enabled><img src="https://pixel.quantserve.com/pixel/p-c1rF4kxgLUzNc.gif" alt="" class="dno"><></div><
+    ></noscript><
+
+><script><var p = "http", d = "static"; if (document.location.protocol == "https:") { p += "s"; d = "engine"; } var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = p + "://" + d + ".adzerk.net/ados.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);></script><
+><script><
+    var ados = ados || {};
+    ados.run = ados.run || [];
+    
+    
+        
+        ados.run.push(function () {
+                setTimeout(function () { $("#adzerk-user-match").remove(); }, window.AUMIframeDone ? 0 : 2000);
+                ados_setKeywords('java');; ados_load();
+        });   
+        
+></script><
+
+    ><script><
+            (function(i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function() { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-5620270-1');
+                ga('create', 'UA-5620270-60', {name: 'pageData', sampleRate: 100 });
+                ga('set', 'dimension2', '|java|');
+                ga('pageData.set', 'dimension2', '|java|');
+                ga('send', 'pageview');
+                ga('pageData.send', 'pageview');
+        var _qevents = _qevents || [],
+            _comscore = _comscore || [];
+        (function () {
+            var ssl='https:'==document.location.protocol,
+                s=document.getElementsByTagName('script')[0],
+                qc=document.createElement('script');
+                qc.async = true;
+                qc.src = (ssl ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+                s.parentNode.insertBefore(qc, s);
+                _qevents.push({ qacct: "p-c1rF4kxgLUzNc" });
+                            var sc=document.createElement('script');
+                sc.async=true;
+                sc.src=(ssl?'https://sb':'http://b') + '.scorecardresearch.com/beacon.js';
+                s.parentNode.insertBefore(sc, s);
+                _comscore.push({ c1: "2", c2: "17440561" });
+        })();
+
+    ></script><
+        
+    
+            ><script type="text/javascript"><
+                
+                (function(appendChild) {
+                    Node.prototype.appendChild = function() {
+                        var parent = this;
+                        var newNode = arguments[0];
+                        if (parent.nodeName === 'HEAD'
+                            && newNode
+                            && newNode.nodeName === 'SCRIPT'
+                            && newNode.src) {
+                            
+                            window.setTimeout(function() {
+                                var result = newNode.src.match(/^https:\/\/maps\.googleapis\.com\/maps\/api\/place\/js\/(\w+)Service\./i) || [];
+                                var service = result[1];
+                                if (service) {
+                                    if (service === 'Autocompletion') service =  2;
+                                    else if (service === 'Place') service = 1;
+                                    else service = 0;
+                                    StackExchange.using('gps', function() {
+                                        StackExchange.gps.track('google_maps_places_api.call', { service: service });
+                                    });
+                                }
+                            }, 0);
+                        }
+                        return appendChild.apply(this, arguments);
+                    };
+                })(Node.prototype.appendChild);
+            ></script><
+    ></body><
+></html>
